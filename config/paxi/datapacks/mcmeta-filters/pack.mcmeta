@@ -1,14 +1,26 @@
 {
-    "pack": {
-      "description": "get filtered lol",
-      "pack_format": 15
-    },
-    "filter": {
-      "block": [
-        {
-          "namespace": "hexerei",
-          "path": "woodcutting"
-        }
-      ]
-    }
+  "pack": {
+    "description": "get filtered lol",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "botania",
+        "path": "orechid"
+      },
+      {
+        "namespace": "botania",
+        "path": "orechid_ingem"
+      },
+      {
+        "namespace": "botania",
+        "path": "marimorphosis"
+      },
+      {
+        "namespace": "crossroads",
+        "path": "alchemy"
+      }
+    ]
   }
+}
