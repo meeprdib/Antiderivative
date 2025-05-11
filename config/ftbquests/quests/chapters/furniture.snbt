@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "furniture"
+	group: "096BA176658074BC"
+	id: "32526724DA13AA31"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Furniture"
+}

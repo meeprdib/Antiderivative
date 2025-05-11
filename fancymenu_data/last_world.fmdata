@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/meepr/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.2/instances/Antiderivative/minecraft/saves/gm_construct 13
+}
+

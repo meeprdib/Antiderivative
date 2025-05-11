@@ -1,0 +1,43 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "processing"
+	group: "4C928C24D7D6D010"
+	id: "485D135786A733C8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "44DEFD4763C3C073"
+		rewards: [
+			{
+				id: "29D527DFF179B6A3"
+				item: {
+					Count: 1
+					id: "essentials:guide_book"
+					tag: {
+						"patchouli:book": "essentials:manual"
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "65FF9613CC20060C"
+				item: "botania:lexicon"
+				type: "item"
+			}
+			{
+				id: "2330DA870BB9BF5C"
+				item: "actuallyadditions:booklet"
+				type: "item"
+			}
+		]
+		tasks: [{
+			id: "5B448E28D2C1B536"
+			title: "checkmark"
+			type: "checkmark"
+		}]
+		x: 1.0d
+		y: -1.0d
+	}]
+	title: "Processing/Automation"
+}

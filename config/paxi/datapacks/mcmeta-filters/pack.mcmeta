@@ -1,0 +1,14 @@
+{
+    "pack": {
+      "description": "get filtered lol",
+      "pack_format": 15
+    },
+    "filter": {
+      "block": [
+        {
+          "namespace": "hexerei",
+          "path": "woodcutting"
+        }
+      ]
+    }
+  }

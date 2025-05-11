@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starting_out"
+	group: ""
+	id: "1308569E4562A0A8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "1E712F2AE4CF905C"
+		tasks: [{
+			id: "5ECA13784DDEE39A"
+			title: "Welcome to Antiderivative"
+			type: "checkmark"
+		}]
+		title: "Welcome to Antiderivative!"
+		x: 0.5d
+		y: -0.5d
+	}]
+	title: "Starting Out"
+}

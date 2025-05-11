@@ -1,0 +1,8 @@
+{
+    "type": "tconstruct:tool_part",
+    "stat_type": "tconstruct:head",
+    "durability": "1000",
+    "melee_attack": "4",
+    "mining_speed": "4",
+    "mining_tier": "1"
+}

@@ -1,0 +1,9 @@
+{
+    "filters": [
+      {"category": "hexerei:plant_picking"},
+      {"category": "emi:anvil_repairing"},
+      {"category": "emi:grinding"},
+      {"category": "tconstruct:worktable"},
+      {"category": "irons_spellbooks:arcane_anvil"}
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "affixes"
+	group: "2D9E6141947F2B62"
+	id: "5BD0928C5BDDCE0B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Affixes"
+}

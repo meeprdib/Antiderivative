@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gear_forging"
+	group: "2D9E6141947F2B62"
+	id: "301368058A368427"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Gear Forging"
+}

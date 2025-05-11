@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "botany"
+	group: "096BA176658074BC"
+	id: "73237775BBEB3166"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+	title: "Botany"
+}

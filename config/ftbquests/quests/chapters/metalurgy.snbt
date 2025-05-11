@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "metalurgy"
+	group: "4C928C24D7D6D010"
+	id: "7B895E41C1F74409"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Metalurgy"
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "mob": "autumnity:snail",
+        "persecond": 0.5,
+        "amount": 
+        {
+            "minimum": 2,
+            "maximum": 8
+        },
+        "conditions": 
+        {
+            "dimension": "minecraft:overworld",
+            "minheight": 55,
+            "maxheight": 120,
+            "maxthis": 8
+        }
+    },
+
+    {
+        "mob": "autumnity:turkey",
+        "persecond": 0.5,
+        "amount": 
+        {
+            "minimum": 2,
+            "maximum": 8
+        },
+        "conditions": 
+        {
+            "dimension": "minecraft:overworld",
+            "minheight": 55,
+            "maxheight": 120,
+            "maxthis": 5
+        }
+    }
+]
