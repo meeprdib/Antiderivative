@@ -20,6 +20,10 @@
       {
         "namespace": "crossroads",
         "path": "alchemy"
+      },
+      {
+        "namespace": "botania",
+        "path": "botanical_brewery"
       }
     ]
   }
