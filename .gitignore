@@ -22,3 +22,5 @@ patchouli_data.json
 /asm
 .qmenu_opened.marker
 /journeymap
+data/fabricDefaultResourcePacks.dat
+fancymenu_data/last_world.fmdata
