@@ -160,6 +160,8 @@ global.nukelist = [
   "tconstruct:ender_slime_crystal_cluster",
   "tconstruct:ender_staff",
   'aether:life_shard',
+  'caverns_and_chasms:copper_nugget',
+  'deep_aether:golden_swet_ball',
 ];
 
 ServerEvents.tags('item', event => {

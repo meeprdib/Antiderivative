@@ -7,22 +7,6 @@
     "block": [
       {
         "namespace": "botania",
-        "path": "orechid"
-      },
-      {
-        "namespace": "botania",
-        "path": "orechid_ingem"
-      },
-      {
-        "namespace": "botania",
-        "path": "marimorphosis"
-      },
-      {
-        "namespace": "crossroads",
-        "path": "alchemy"
-      },
-      {
-        "namespace": "botania",
         "path": "botanical_brewery"
       }
     ]

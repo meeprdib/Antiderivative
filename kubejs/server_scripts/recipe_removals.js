@@ -1,18 +1,19 @@
-ServerEvents.recipes(event => {
+ServerEvents.recipes((event) => {
+  const removedTypes = [
+    "aether:repairing",
+    "botania:orechid",
+    "botania:orechid_ignem",
+    "botania:marimorphosis",
+    "crossroads:alchemy",
+    "botania:botanical_brewery"
+  ];
 
-    const removedTypes = [
-        'aether:repairing',
-    ].forEach(remove => event.remove({type: remove}))
+  const removedIDs = [];
+  const removedInputs = [];
+  const removedOutputs = [];
 
-    const removedIDs = [
-
-    ].forEach(remove => event.remove({id: remove}))
-
-    const removedInputs = [
-
-    ].forEach(remove => event.remove({input: remove}))
-
-    const removedOutputs = [
-
-    ].forEach(remove => event.remove({input: remove}))
-})
+  removedTypes.forEach((type) => event.remove({ type: type }));
+  removedIDs.forEach((id) => event.remove({ id: id }));
+  removedInputs.forEach((input) => event.remove({ input: input }));
+  removedOutputs.forEach((output) => event.remove({ output: output }));
+});
