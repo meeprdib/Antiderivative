@@ -75,6 +75,10 @@
     "modId": "autumnity",
     "version": "5.0.2"
   },
+  "balm-forge-1.20.1-7.3.29-all.jar": {
+    "modId": "balm",
+    "version": "7.3.29"
+  },
   "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar": {
     "modId": "betteradvancements",
     "version": "0.4.2.25"
@@ -119,17 +123,9 @@
     "modId": "chat_heads",
     "version": "0.13.18"
   },
-  "chunkactivitytracker-forge-1.0.1-1.20.1.jar": {
-    "modId": "chunkactivitytracker",
-    "version": "1.0.1"
-  },
   "citadel-2.6.1-1.20.1.jar": {
     "modId": "citadel",
     "version": "2.6.1"
-  },
-  "clickadv-1.20.1-3.8.jar": {
-    "modId": "clickadv",
-    "version": "1.20.1-3.8"
   },
   "cloth-config-11.1.136-forge.jar": {
     "modId": "cloth_config",
@@ -154,10 +150,6 @@
   "connectivity-1.20.1-7.1.jar": {
     "modId": "connectivity",
     "version": "1.20.1-7.1"
-  },
-  "constructs_casting-1.2.2.jar": {
-    "modId": "constructs_casting",
-    "version": "1.2.2"
   },
   "Controlling-forge-1.20.1-12.0.2.jar": {
     "modId": "controlling",
@@ -206,18 +198,6 @@
   "deltaboxlib-2.1.1-forge-1.20.1.jar": {
     "modId": "deltaboxlib",
     "version": "2.1.1"
-  },
-  "distraction_free_recipes-forge-1.2.1-1.20.1.jar": {
-    "modId": "distraction_free_recipes",
-    "version": "1.2.1"
-  },
-  "ditr-1.20.1-1.1.1.jar": {
-    "modId": "ditr",
-    "version": "1.20.1-1.1.1"
-  },
-  "does_it_tick-forge-1.1.4-1.20.1.jar": {
-    "modId": "does_it_tick",
-    "version": "1.1.4"
   },
   "dummmmmmy-1.20-2.0.6.jar": {
     "modId": "dummmmmmy",
@@ -274,10 +254,6 @@
   "essentials-1.20.1-2.16.0.jar": {
     "modId": "essentials",
     "version": "1.20.1-2.16.0"
-  },
-  "EuphoriaPatcher-1.5.2-r5.4-forge.jar": {
-    "modId": "euphoria_patcher",
-    "version": "1.5.2-r5.4-forge"
   },
   "everycomp-1.20-2.8.2-forge.jar": {
     "modId": "everycomp",
@@ -363,10 +339,6 @@
     "modId": "galosphere",
     "version": "1.20.1-1.4.1"
   },
-  "galosphere_spellbooks-1.1.0.jar": {
-    "modId": "galosphere_spellbooks",
-    "version": "1.1.0"
-  },
   "galospheric_delight-1.20.1-6.42.jar": {
     "modId": "galospheric_delight",
     "version": "5.42"
@@ -378,6 +350,10 @@
   "geckolib-forge-1.20.1-4.7.1.2.jar": {
     "modId": "geckolib",
     "version": "4.7.1.2"
+  },
+  "gravitychanger-forge-1.20.1-2.jar": {
+    "modId": "gravitychanger",
+    "version": "2"
   },
   "guideme-20.1.7.jar": {
     "modId": "guideme",
@@ -492,6 +468,10 @@
     "modId": "lithostitched",
     "version": "1.4"
   },
+  "littlejoys-forge-1.20.1-20.1.8.jar": {
+    "modId": "littlejoys",
+    "version": "20.1.8"
+  },
   "lmft-1.0.4+1.20.1-forge.jar": {
     "modId": "lmft",
     "version": "1.0.4+1.20.1"
@@ -563,10 +543,6 @@
   "Oreganized 1.20.1-4.0.0.carcinogenious.jar": {
     "modId": "oreganized",
     "version": "3.1.4.fool"
-  },
-  "palegardenbackport-2.0.2-forge-1.20.1.jar": {
-    "modId": "palegardenbackport",
-    "version": "2.0.2"
   },
   "Patchouli-1.20.1-84.1-FORGE.jar": {
     "modId": "patchouli",
@@ -728,6 +704,10 @@
     "modId": "splendid_slimes",
     "version": "0.7.0"
   },
+  "stonezone-1.20-2.7.16.jar": {
+    "modId": "stonezone",
+    "version": "1.20-2.7.16"
+  },
   "StorageDrawers-1.20.1-12.9.13.jar": {
     "modId": "storagedrawers",
     "version": "12.9.13"
@@ -743,6 +723,14 @@
   "structurify-forge-mc1.20.1-1.0.11.jar": {
     "modId": "structurify",
     "version": "1.0.11"
+  },
+  "supermartijn642configlib-1.1.8-forge-mc1.20.jar": {
+    "modId": "supermartijn642configlib",
+    "version": "1.1.8"
+  },
+  "sweety_archaeology-1.0.9-forge-1.20.1.jar": {
+    "modId": "sweety_archaeology",
+    "version": "1.0.9"
   },
   "TCIntegrations-1.20.1-2.0.25.8.jar": {
     "modId": "tcintegrations",
@@ -775,10 +763,6 @@
   "traveloptics-4.4.0-1.20.1.jar": {
     "modId": "traveloptics",
     "version": "4.4.0-1.20.1"
-  },
-  "txnilib-forge-1.0.23-1.20.1.jar": {
-    "modId": "txnilib",
-    "version": "1.0.23"
   },
   "unusualfishmod-1.1.8.jar": {
     "modId": "unusualfishmod",

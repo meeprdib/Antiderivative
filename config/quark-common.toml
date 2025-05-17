@@ -39,8 +39,8 @@
 		"Middle Y" = 0
 
 [categories]
-	automation = false
-	building = false
+	automation = true
+	building = true
 	management = false
 	tools = false
 	tweaks = false
@@ -108,18 +108,18 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 [building]
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Compressed Blocks" = true
-	"Duskbound Blocks" = true
+	"Duskbound Blocks" = false
 	"Framed Glass" = true
 	"Glass Item Frame" = true
-	"Gold Bars" = true
+	"Gold Bars" = false
 	Grate = true
-	Hedges = true
+	Hedges = false
 	"Hollow Logs" = true
 	"Industrial Palette" = true
 	"Japanese Palette" = true
-	"Leaf Carpet" = true
+	"Leaf Carpet" = false
 	Midori = true
 	"More Brick Types" = true
 	"More Mud Blocks" = true
@@ -134,14 +134,14 @@
 	Stools = true
 	"Sturdy Stone" = true
 	Thatch = true
-	"Variant Bookshelves" = true
-	"Variant Chests" = true
+	"Variant Bookshelves" = false
+	"Variant Chests" = false
 	"Variant Furnaces" = true
-	"Variant Ladders" = true
+	"Variant Ladders" = false
 	"Vertical Planks" = true
 	"Vertical Slabs" = true
-	"Wooden Posts" = true
-	"More Stone Variants" = true
+	"Wooden Posts" = false
+	"More Stone Variants" = false
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -340,7 +340,7 @@
 [tools]
 	Abacus = true
 	"Ambient Discs" = true
-	"Ancient Tomes" = true
+	"Ancient Tomes" = false
 	"Beacon Redirection" = true
 	"Bottled Cloud" = true
 	"Color Runes" = true

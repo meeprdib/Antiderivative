@@ -1,3 +1,18 @@
 {
-  "schema_version": "2"
+  "schema_version": 2,
+  "default_packs": [
+
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "vanilla": {"hidden": true},
+    "mod_resources": {"hidden": true},
+    "fabric": {"hidden": true},
+    "file/Forgery": {"hidden": true},
+    "file/Forgery grayscale": {"hidden": true},
+    "file/JNE-Emissive": {"hidden": true},
+    "file/Moonlight Mods Dynamic Assets": {"hidden": true}
+  }
 }

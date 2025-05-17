@@ -97,9 +97,6 @@
 			cottonwood = true
 			willow = true
 
-		[types.wood_type.palegardenbackport]
-			pale_oak = true
-
 		[types.wood_type.aether]
 			skyroot = true
 
@@ -201,9 +198,6 @@
 			cottonwood = true
 			willow = true
 
-		[types.leaves_type.palegardenbackport]
-			pale_oak = true
-
 		[types.leaves_type.upgrade_aquatic]
 			river = true
 
@@ -246,6 +240,98 @@
 			blightwillow = true
 			glacia = true
 
+	[types.stone_type]
+
+		[types.stone_type.atmospheric]
+			dolerite = true
+			ivory_travertine = true
+			peach_travertine = true
+			persimmon_travertine = true
+			saffron_travertine = true
+
+		[types.stone_type.caverns_and_chasms]
+			sugilite = true
+
+		[types.stone_type.aether_redux]
+			sentrite = true
+			divinite = true
+			driftshale = true
+
+		[types.stone_type.deep_aether]
+			clorite = true
+			raw_clorite = true
+			aseterite = true
+			nimbus_stone = true
+
+		[types.stone_type.alexscaves]
+			galena = true
+			radrock = true
+			abyssmarine = true
+			guanostone = true
+			limestone = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			duskbound = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+			permafrost = true
+
+		[types.stone_type.regions_unexplored]
+			argillite = true
+			chalk = true
+
+		[types.stone_type.excessive_building]
+			polished_stone = true
+
+		[types.stone_type.vintagedelight]
+			salt = true
+
+		[types.stone_type.botania]
+			livingrock = true
+			shimmerrock = true
+
+		[types.stone_type.scguns]
+			phosphorite = true
+
+		[types.stone_type.wetland_whimsy]
+			limestone = true
+
+		[types.stone_type.aether]
+			holystone = true
+			carved_stone = true
+			angelic_stone = true
+			hellfire_stone = true
+
+		[types.stone_type.architects_palette]
+			abyssaline = true
+			hadaline = true
+			myonite = true
+			warpstone = true
+			esoterrack = true
+			onyx = true
+			wardstone = true
+			moonshale = true
+			craterstone = true
+			nebulite = true
+
+		[types.stone_type.tconstruct]
+			seared_stone = true
+			scorched_stone = true
+
+		[types.stone_type.rubinated_nether]
+			altar_stone = true
+
+		[types.stone_type.upgrade_aquatic]
+			coralstone = true
+
+	[types.mud_type]
+
+		[types.mud_type.deep_aether]
+			aether_mud = true
+
 #Disables specific entries
 [entries]
 
@@ -287,7 +373,7 @@
 			vertical_slab = true
 
 		[entries.wood_type.regions_unexplored]
-			branch = true
+			branch = false
 
 		[entries.wood_type.friendsandfoes]
 			beehive = true
@@ -309,4 +395,18 @@
 
 		[entries.leaves_type.regions_unexplored]
 			shrub = true
+
+	[entries.stone_type]
+
+		[entries.stone_type.quark]
+			pillar = true
+			polished_vertical_slab = true
+			vertical_slab = true
+
+	[entries.mud_type]
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
 

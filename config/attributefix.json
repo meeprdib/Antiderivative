@@ -4554,22 +4554,22 @@
         "value": 100
       }
     },
-    "constructs_casting:slime_spell_power": {
+    "additional_attributes:spell_type_firefly_swarm": {
       "enabled": false,
       "min": {
-        "default": -100,
-        "value": -100
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,
         "value": 100
       }
     },
-    "additional_attributes:spell_type_firefly_swarm": {
+    "constructs_casting:slime_spell_power": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,

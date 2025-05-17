@@ -50,7 +50,7 @@
 				#Configure vertical max distance before cull entities
 				#Value is raw
 				#Range: 0 ~ 512
-				cullingMaxDistanceY = 32
+				cullingMaxDistanceY = 64
 				#List of all Entities to be ignored by distance culling
 				#Uses ResourceLocation to identify it
 				#Example 1: "minecraft:bat" - Ignores bats only

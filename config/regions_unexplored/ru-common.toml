@@ -95,7 +95,7 @@
 
 [worldgen_options]
 	#surface_rules
-	toggle_custom_dirt = true
+	toggle_custom_dirt = false
 
 [client_options]
 	toggle_mauve_leaves_particles = true
