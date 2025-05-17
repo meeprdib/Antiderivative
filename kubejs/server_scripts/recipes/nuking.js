@@ -1,5 +1,27 @@
 global.nukelist = [
-  "#quark:shards",
+   'minecraft:fletching_table',
+   'minecraft:anvil',
+   'minecraft:grindstone',
+  "galosphere:sterling_horse_armor",
+  "galosphere:sterling_helmet",
+  "galosphere:sterling_chestplate",
+  "galosphere:sterling_leggings",
+  "galosphere:sterling_boots",
+  "vintagedelight:gearo_berry",
+  "irons_spellbooks:fireward_ring",
+  "irons_spellbooks:nature_upgrade_orb",
+  "irons_spellbooks:mana_upgrade_orb",
+  "irons_spellbooks:cooldown_upgrade_orb",
+  "irons_spellbooks:protection_upgrade_orb",
+  "irons_spellbooks:upgrade_orb",
+  "irons_spellbooks:fire_upgrade_orb",
+  "irons_spellbooks:ice_upgrade_orb",
+  "irons_spellbooks:lightning_upgrade_orb",
+  "irons_spellbooks:holy_upgrade_orb",
+  "irons_spellbooks:ender_upgrade_orb",
+  "irons_spellbooks:blood_upgrade_orb",
+  "irons_spellbooks:evocation_upgrade_orb",
+  "traveloptics:aqua_upgrade_orb",
   "aether_overworld_ores:holystone_coal_ore",
   "aether_overworld_ores:holystone_copper_ore",
   "aether_overworld_ores:holystone_emerald_ore",
@@ -82,6 +104,9 @@ global.nukelist = [
   "crossroads:enviro_boots",
   "crossroads:fire_detector",
   "crossroads:gear_facade_cobble",
+  "vintagedelight:gearo_berry_bag",
+  "vintagedelight:gearo_berry_mason_jar",
+  "vintagedelight:gearo_berry_jam_bottle",
   "crossroads:gear_facade_glass",
   "crossroads:gem_ruby",
   "crossroads:ingot_bronze",
@@ -122,14 +147,6 @@ global.nukelist = [
   "hexalia:salt_lamp",
   "minecraft:enchanted_book",
   "minecraft:ender_eye",
-  "quark:chorus_twist",
-  "quark:chorus_weeds",
-  "quark:gold_bars",
-  "quark:lootr_ancient_chest",
-  "quark:lootr_ancient_trapped_chest",
-  "quark:matrix_enchanter",
-  "quark:stone_brick_lamp",
-  "quark:stone_lamp",
   "refinedstorage:wrench",
   "rubinated_nether:freezer",
   "rubinated_nether:rubination_altar",
@@ -182,17 +199,6 @@ global.nukelist = [
   /^ecologics:azalea.+/,
   /^essentials:fertile_soil_.+/,
   /^excessive_building:.+?_vertical_stairs/,
-  /^quark:.+?_bookshelf/,
-  /^quark:.+?_corundum/,
-  /^quark:.+?_crystal_lamp/,
-  /^quark:.+?_hedge/,
-  /^quark:.+?_ladder/,
-  /^quark:.+?_post/,
-  /^quark:ancient_.+/,
-  /^quark:azalea.+/,
-  /^quark:jasper.+/,
-  /^quark:myalite.+/,
-  /^quark:shale.+/,
   /^regions_unexplored:.+?_painted_planks/,
   /^regions_unexplored:.+?_painted_slab/,
   /^regions_unexplored:.+?_painted_stairs/,
@@ -200,39 +206,39 @@ global.nukelist = [
   /^vintagedelight:salt_lamp_.+/,
 ];
 
-ServerEvents.tags('item', event => {
-   event.removeAllTagsFrom(global.nukelist)
-   event.add('ad:nukelist', global.nukelist)
-   event.add('c:hidden_from_recipe_viewers', global.nukelist)
-})
+ServerEvents.tags("item", (event) => {
+  event.removeAllTagsFrom(global.nukelist);
+  event.add("ad:nukelist", global.nukelist);
+  event.add("c:hidden_from_recipe_viewers", global.nukelist);
+});
 
-ServerEvents.tags('block', event => {
-    event.removeAllTagsFrom(global.nukelist)
-  })
+ServerEvents.tags("block", (event) => {
+  event.removeAllTagsFrom(global.nukelist);
+});
 
-ServerEvents.tags('fluid', event => {
-   event.removeAllTagsFrom(global.nukelist)
-   event.add('ad:nukelist', global.nukelist)
-   event.add('c:hidden_from_recipe_viewers', global.nukelist)
-})
+ServerEvents.tags("fluid", (event) => {
+  event.removeAllTagsFrom(global.nukelist);
+  event.add("ad:nukelist", global.nukelist);
+  event.add("c:hidden_from_recipe_viewers", global.nukelist);
+});
 
-ServerEvents.recipes(event => {
-   event.remove({ input: global.nukelist })
-   event.remove({ output: global.nukelist })
-})
+ServerEvents.recipes((event) => {
+  event.remove({ input: global.nukelist });
+  event.remove({ output: global.nukelist });
+});
 
-LootJS.modifiers(event => {
-    event
-      .addLootTypeModifier(
-         LootType.ENTITY,
-         LootType.UNKNOWN,
-         LootType.BLOCK,
-         LootType.CHEST,
-         LootType.FISHING,
-         LootType.GIFT,
-         LootType.ADVANCEMENT_ENTITY,
-         LootType.ADVANCEMENT_REWARD,
-         LootType.PIGLIN_BARTER,
-      )
-      .removeLoot(global.nukelist);
-})
+LootJS.modifiers((event) => {
+  event
+    .addLootTypeModifier(
+      LootType.ENTITY,
+      LootType.UNKNOWN,
+      LootType.BLOCK,
+      LootType.CHEST,
+      LootType.FISHING,
+      LootType.GIFT,
+      LootType.ADVANCEMENT_ENTITY,
+      LootType.ADVANCEMENT_REWARD,
+      LootType.PIGLIN_BARTER
+    )
+    .removeLoot(global.nukelist);
+});
