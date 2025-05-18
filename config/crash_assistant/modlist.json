@@ -11,9 +11,9 @@
     "modId": "actuallyharvest",
     "version": "1.20.1-1.1.3.1-FORGE"
   },
-  "additional_attributes-1.20.1-1.3.4-all.jar": {
+  "additional_attributes-1.20.1-1.3.5-all.jar": {
     "modId": "additional_attributes",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   "aeroblender-1.20.1-1.0.1-neoforge.jar": {
     "modId": "aeroblender",
@@ -159,9 +159,9 @@
     "modId": "cosmeticarmorreworked",
     "version": "1.20.1-v1a"
   },
-  "CrashAssistant-forge-1.19.2-1.20.1-1.7.26.jar": {
+  "CrashAssistant-forge-1.19.2-1.20.1-1.7.28.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.26"
+    "version": "1.7.28"
   },
   "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar": {
     "modId": "creativecore",
@@ -187,9 +187,9 @@
     "modId": "curios",
     "version": "5.14.1+1.20.1"
   },
-  "deep_aether-1.20.1-1.1.6.jar": {
+  "deep_aether-1.20.1-1.1.5.jar": {
     "modId": "deep_aether",
-    "version": "1.20.1-1.1.6"
+    "version": "1.20.1-1.1.5"
   },
   "Delightful-1.20.1-3.7.1.jar": {
     "modId": "delightful",
@@ -211,9 +211,9 @@
     "modId": "ecologics",
     "version": "2.2.0"
   },
-  "ElysiumAPI-1.20.1-1.1.1.jar": {
+  "ElysiumAPI-1.20.1-1.1.2.jar": {
     "modId": "elysium_api",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "emi-1.1.22+1.20.1+forge.jar": {
     "modId": "emi",
@@ -243,9 +243,9 @@
     "modId": "entityculling",
     "version": "1.7.3"
   },
-  "entityjs-0.4.8-1.20.1.jar": {
+  "entityjs-0.4.9-1.20.1.jar": {
     "modId": "entityjs",
-    "version": "0.4.8-1.20.1"
+    "version": "0.4.9-1.20.1"
   },
   "EquipmentCompare-1.20.1-forge-1.3.7.jar": {
     "modId": "equipmentcompare",
@@ -255,17 +255,17 @@
     "modId": "essentials",
     "version": "1.20.1-2.16.0"
   },
-  "everycomp-1.20-2.8.2-forge.jar": {
+  "everycomp-1.20-2.8.5-forge.jar": {
     "modId": "everycomp",
-    "version": "1.20-2.8.2"
+    "version": "1.20-2.8.5"
   },
   "Excessive Building 1.20.1-1.20.1-3.0.1.jar": {
     "modId": "excessive_building",
     "version": "1.20.1-3.0.1"
   },
-  "fancymenu_forge_3.5.0_MC_1.20.1.jar": {
+  "fancymenu_forge_3.5.2_MC_1.20.1.jar": {
     "modId": "fancymenu",
-    "version": "3.5.0"
+    "version": "3.5.2"
   },
   "FarmersDelight-1.20.1-1.2.7.jar": {
     "modId": "farmersdelight",
@@ -299,17 +299,17 @@
     "modId": "dungeonsdelight",
     "version": "1.0.2"
   },
-  "forgery-3.6.0+1.20.jar": {
+  "forgery-3.6.1+1.20.jar": {
     "modId": "fabrication",
-    "version": "3.6.0+1.20"
+    "version": "3.6.1+1.20"
   },
   "formations-1.0.3-forge-mc1.20.2.jar": {
     "modId": "formations",
     "version": "1.0.3"
   },
-  "framework-forge-1.20.1-0.7.12.jar": {
+  "framework-forge-1.20.1-0.7.15.jar": {
     "modId": "framework",
-    "version": "0.7.12"
+    "version": "0.7.15"
   },
   "friendsandfoes-forge-mc1.20.1-3.0.9.jar": {
     "modId": "friendsandfoes",
@@ -359,7 +359,7 @@
     "modId": "guideme",
     "version": "20.1.7"
   },
-  "hexalia-1.2.4-1.20.1+forge.jar": {
+  "hexalia-1.2.5-1.20.1+forge.jar": {
     "modId": "hexalia",
     "version": "1.0.1-1.20.1+forge"
   },
@@ -464,9 +464,9 @@
     "modId": "lionfishapi",
     "version": "2.4-Fix"
   },
-  "lithostitched-forge-1.20.1-1.4.4.jar": {
+  "lithostitched-forge-1.20.1-1.4.7.jar": {
     "modId": "lithostitched",
-    "version": "1.4"
+    "version": "1.4.7"
   },
   "littlejoys-forge-1.20.1-20.1.8.jar": {
     "modId": "littlejoys",
@@ -504,9 +504,9 @@
     "modId": "melody",
     "version": "1.0.2"
   },
-  "modernfix-forge-5.21.0+mc1.20.1.jar": {
+  "modernfix-forge-5.22.0+mc1.20.1.jar": {
     "modId": "modernfix",
-    "version": "5.21.0+mc1.20.1"
+    "version": "5.22.0+mc1.20.1"
   },
   "moonlight-1.20-2.14.1-forge.jar": {
     "modId": "moonlight",
@@ -520,7 +520,7 @@
     "modId": "moyai",
     "version": "1.20-2.1.4"
   },
-  "MyNethersDelight-1.20.1-0.1.7.5.jar": {
+  "MyNethersDelight-1.20.1-0.1.8.jar": {
     "modId": "mynethersdelight",
     "version": "1.20.1-1.7.5"
   },
@@ -636,9 +636,9 @@
     "modId": "rubinated_nether",
     "version": "1.3.0.E-1.20.1"
   },
-  "RunicLib-forge-1.20.1-4.1.5.jar": {
+  "RunicLib-forge-1.20.1-4.1.7.jar": {
     "modId": "runiclib",
-    "version": "4.1.5"
+    "version": "4.1.7"
   },
   "sawmill-1.20-1.4.6.jar": {
     "modId": "sawmill",
@@ -664,9 +664,9 @@
     "modId": "shieldexp",
     "version": "1.2.2"
   },
-  "SimpleBackups-1.20.1-3.1.8.jar": {
+  "SimpleBackups-1.20.1-3.1.9.jar": {
     "modId": "simplebackups",
-    "version": "1.20.1-3.1.8"
+    "version": "1.20.1-3.1.9"
   },
   "sit-1.20.1-1.3.5.jar": {
     "modId": "sit",
@@ -684,13 +684,13 @@
     "modId": "sol_valheim",
     "version": "1.1.1"
   },
-  "sophisticatedbackpacks-1.20.1-3.23.14.1233.jar": {
+  "sophisticatedbackpacks-1.20.1-3.23.17.1246.jar": {
     "modId": "sophisticatedbackpacks",
-    "version": "3.23.14.1233"
+    "version": "3.23.17.1246"
   },
-  "sophisticatedcore-1.20.1-1.2.52.967.jar": {
+  "sophisticatedcore-1.20.1-1.2.59.984.jar": {
     "modId": "sophisticatedcore",
-    "version": "1.2.52.967"
+    "version": "1.2.59.984"
   },
   "spark-1.10.53-forge.jar": {
     "modId": "spark",
@@ -700,13 +700,13 @@
     "modId": "species",
     "version": "1.20.1-2.3-forge"
   },
-  "splendid_slimes-0.7.0.jar": {
+  "splendid_slimes-0.8.0.jar": {
     "modId": "splendid_slimes",
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
-  "stonezone-1.20-2.7.16.jar": {
+  "stonezone-1.20-2.8.3.jar": {
     "modId": "stonezone",
-    "version": "1.20-2.7.16"
+    "version": "1.20-2.8.3"
   },
   "StorageDrawers-1.20.1-12.9.13.jar": {
     "modId": "storagedrawers",
@@ -716,9 +716,9 @@
     "modId": "structure_layout_optimizer",
     "version": "1.0.10"
   },
-  "structureessentials-1.20.1-4.6.jar": {
+  "structureessentials-1.20.1-4.7.jar": {
     "modId": "structureessentials",
-    "version": "1.20.1-4.6"
+    "version": "1.20.1-4.7"
   },
   "structurify-forge-mc1.20.1-1.0.11.jar": {
     "modId": "structurify",

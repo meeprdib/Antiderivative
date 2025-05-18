@@ -891,7 +891,7 @@
         "value": 100
       }
     },
-    "runiclib:generic.burning_retaliation_chance": {
+    "additional_attributes:innate_spell/irons_spellbooks/oakskin": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -902,7 +902,7 @@
         "value": 100
       }
     },
-    "additional_attributes:innate_spell/irons_spellbooks/oakskin": {
+    "runiclib:generic.burning_retaliation_chance": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -1628,7 +1628,7 @@
         "value": 100
       }
     },
-    "runiclib:generic.retaliation_chance": {
+    "additional_attributes:spell_type_magic_missile": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -1639,7 +1639,7 @@
         "value": 100
       }
     },
-    "additional_attributes:spell_type_magic_missile": {
+    "runiclib:generic.retaliation_chance": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -2002,17 +2002,6 @@
         "value": 4
       }
     },
-    "runiclib:generic.lifesteal_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "additional_attributes:innate_spell/irons_spellbooks/greater_heal": {
       "enabled": false,
       "min": {
@@ -2025,6 +2014,17 @@
       }
     },
     "additional_attributes:spell_type_blight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "runiclib:generic.lifesteal_chance": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -2178,22 +2178,22 @@
         "value": 100
       }
     },
-    "runiclib:generic.dodge_chance": {
+    "traveloptics:aqua_spell_power": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,
         "value": 100
       }
     },
-    "traveloptics:aqua_spell_power": {
+    "runiclib:generic.dodge_chance": {
       "enabled": false,
       "min": {
-        "default": -100,
-        "value": -100
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,

@@ -272,7 +272,6 @@
 
 		[types.stone_type.quark]
 			soul_sandstone = true
-			duskbound = true
 			limestone = true
 			jasper = true
 			shale = true
