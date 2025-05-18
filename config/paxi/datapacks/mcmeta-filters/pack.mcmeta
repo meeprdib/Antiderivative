@@ -1,14 +1,22 @@
 {
-  "pack": {
-    "description": "get filtered lol",
-    "pack_format": 15
-  },
-  "filter": {
-    "block": [
-      {
-        "namespace": "botania",
-        "path": "botanical_brewery"
-      }
-    ]
-  }
+"pack": {
+  "description": "get filtered lol",
+  "pack_format": 15
+},
+"filter": {
+  "block": [
+    {
+      "namespace": "botania",
+      "path": "botanical_brewery"
+    },
+    {
+      "namespace": "irons_spellbooks",
+      "path": "alchemist_cauldron"
+    },
+          {
+      "namespace": "irons_spellbooks",
+      "path": "scroll_forge"
+    }
+  ]
+}
 }

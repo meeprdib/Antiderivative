@@ -389,11 +389,11 @@
 	[entries.leaves_type]
 
 		[entries.leaves_type.quark]
-			hedge = true
+			hedge = false
 			leaf_carpet = true
 
 		[entries.leaves_type.regions_unexplored]
-			shrub = true
+			shrub = false
 
 	[entries.stone_type]
 
