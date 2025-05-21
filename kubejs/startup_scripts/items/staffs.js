@@ -9,6 +9,17 @@ StartupEvents.registry('item', event => {
 
 event.create('teleportation_staff', "irons_spells_js:staff")
   .modelJson(JsonIO.read('kubejs/assets/kubejs/models/item/teleportation_staff.json'))
-  .modifyAttribute("additional_attributes:innate_spell/irons_spellbooks/teleport", "Teleport", 1.0, "addition")
   .rarity("traveloptics:void")
+
+event.create('nature_staff', "irons_spells_js:staff")
+  .modelJson(JsonIO.read('kubejs/assets/kubejs/models/item/nature_staff.json'))
+  .rarity("traveloptics:natural")
+
+  event.create('blood_staff', "irons_spells_js:staff")
+  .modelJson(JsonIO.read('kubejs/assets/kubejs/models/item/blood_staff.json'))
+  .rarity("alexscaves:demonic")	
+
+    event.create('ice_staff', "irons_spells_js:staff")
+  .modelJson(JsonIO.read('kubejs/assets/kubejs/models/item/ice_staff.json'))
+  .rarity("rare")
 })
