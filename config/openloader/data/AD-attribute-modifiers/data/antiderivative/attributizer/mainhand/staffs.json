@@ -1,0 +1,10 @@
+{
+  "kubejs:teleportation_staff":[
+    {
+      "attribute": "additional_attributes:innate_spell/irons_spellbooks/teleport",
+      "modify": 5,
+      "uuid": "f9dc6300-fd3b-499c-b4af-6dd2b4b7e7ff",
+      "operation": "ADDITION"
+    }
+  ]
+}
