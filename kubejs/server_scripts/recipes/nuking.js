@@ -286,6 +286,8 @@ global.nukelist = [
   /^regions_unexplored:.+?_painted_planks/,
   /^regions_unexplored:.+?_painted_slab/,
   /^regions_unexplored:.+?_painted_stairs/,
+  /^regions_unexplored:.+?_shrub/,
+  /^regions_unexplored:.+?_branch/,
   /^tconstruct:enderbark.+/,
   /^traveloptics:augment.+/,
   /^vintagedelight:salt_lamp_.+/,

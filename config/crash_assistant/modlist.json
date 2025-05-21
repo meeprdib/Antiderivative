@@ -71,6 +71,10 @@
     "modId": "attributefix",
     "version": "21.0.4"
   },
+  "attributizer-2.1.jar": {
+    "modId": "attributizer",
+    "version": "2.1"
+  },
   "autumnity-1.20.1-5.0.2.jar": {
     "modId": "autumnity",
     "version": "5.0.2"
@@ -540,6 +544,10 @@
     "modId": "openpartiesandclaims",
     "version": "0.24.0"
   },
+  "OpenLoader-Forge-1.20.1-19.0.4.jar": {
+    "modId": "openloader",
+    "version": "19.0.4"
+  },
   "Oreganized 1.20.1-4.0.0.carcinogenious.jar": {
     "modId": "oreganized",
     "version": "3.1.4.fool"
@@ -547,10 +555,6 @@
   "Patchouli-1.20.1-84.1-FORGE.jar": {
     "modId": "patchouli",
     "version": "1.20.1-84.1-FORGE"
-  },
-  "Paxi-1.20-Forge-4.0.jar": {
-    "modId": "paxi",
-    "version": "1.20-Forge-4.0"
   },
   "Placebo-1.20.1-8.6.3.jar": {
     "modId": "placebo",
