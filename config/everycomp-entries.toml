@@ -27,10 +27,6 @@
 			bloodshroom = false
 			enderbark = false
 
-		[types.wood_type.alexscaves]
-			pewen = true
-			thornwood = true
-
 		[types.wood_type.wetland_whimsy]
 			bald_cypress = true
 
@@ -115,6 +111,10 @@
 			crystal = true
 			glacia = true
 
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.autumnity]
@@ -122,9 +122,6 @@
 			orange_maple = true
 			red_maple = true
 			maple = true
-
-		[types.leaves_type.alexscaves]
-			ancient = true
 
 		[types.leaves_type.excessive_building]
 			golden_birch = true
@@ -240,6 +237,9 @@
 			blightwillow = true
 			glacia = true
 
+		[types.leaves_type.alexscaves]
+			ancient = true
+
 	[types.stone_type]
 
 		[types.stone_type.atmospheric]
@@ -262,13 +262,6 @@
 			raw_clorite = true
 			aseterite = true
 			nimbus_stone = true
-
-		[types.stone_type.alexscaves]
-			galena = true
-			radrock = true
-			abyssmarine = true
-			guanostone = true
-			limestone = true
 
 		[types.stone_type.quark]
 			soul_sandstone = true
@@ -325,6 +318,13 @@
 
 		[types.stone_type.upgrade_aquatic]
 			coralstone = true
+
+		[types.stone_type.alexscaves]
+			galena = true
+			radrock = true
+			abyssmarine = true
+			guanostone = true
+			limestone = true
 
 	[types.mud_type]
 

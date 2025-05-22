@@ -516,6 +516,10 @@
     "modId": "moonlight",
     "version": "1.20-2.14.1"
   },
+  "morejs-forge-1.20.1-0.10.1.jar": {
+    "modId": "morejs",
+    "version": "0.10.1"
+  },
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "modId": "mousetweaks",
     "version": "2.25.1"
