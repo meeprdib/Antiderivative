@@ -324,6 +324,7 @@ global.nukelist = [
   "vintagedelight:gearo_berry_jam_bottle",
   "vintagedelight:gearo_berry_mason_jar",
   "vintagedelight:gearo_berry",
+  /^refinedstorage:(white|orange|magenta|yellow|lime|pink|gray|light_gray|cyan|purple|blue|brown|green|red|black)/,
   /^aether:valkyrie_.+/,
   /^botania:.*pavement.*/,
   /^botania:.*quartz.*/,
