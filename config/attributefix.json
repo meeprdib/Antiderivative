@@ -935,17 +935,6 @@
         "value": 1024
       }
     },
-    "tinkersjewelry:silk": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
     "additional_attributes:innate_spell/traveloptics/burning_judgment": {
       "enabled": false,
       "min": {
@@ -955,6 +944,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "tinkersjewelry:silk": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "additional_attributes:innate_spell/traveloptics/vortex_punch": {
@@ -2398,7 +2398,7 @@
         "value": 100
       }
     },
-    "tinkersjewelry:trade": {
+    "additional_attributes:spell/traveloptics/blackout": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -2409,7 +2409,7 @@
         "value": 100
       }
     },
-    "additional_attributes:spell/traveloptics/blackout": {
+    "tinkersjewelry:trade": {
       "enabled": false,
       "min": {
         "default": 0,
