@@ -1,3 +1,5 @@
+// Bulk generates recipes for materials
+
 let raw_material_definition = (
   ore,
   raw,
