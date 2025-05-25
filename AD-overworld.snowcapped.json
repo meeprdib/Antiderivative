@@ -56,8 +56,10 @@
   ],
   "depths": [
     -1,
-    -0.5,
+    -0.25,
     0,
+    0.25,
+    0.5,
     1
   ],
   "dimension": {
@@ -108,6 +110,36 @@
         "layout_ma310e5a",
         "layout_ma310e5a",
         "layout_ma310e5a"
+      ],
+      [
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat"
+      ],
+      [
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp",
+        "layout_mb382ipp"
       ]
     ]
   },
@@ -178,44 +210,44 @@
       "name": "Caves",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb3370ck",
+          "biome_mb3370ck",
+          "biome_mb3370ck",
+          "biome_mb312mrm",
+          "biome_mb312mrm",
+          "biome_mb312mrm"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb312b6p",
+          "biome_mb312b6p",
+          "biome_mb312b6p",
+          "biome_mb312mrm/biome_mb32ssih",
+          "biome_mb312mrm",
+          "biome_mb312mrm"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb32ssih",
+          "biome_mb32ssih",
+          "biome_mb32ssih/biome_mb32rz8m",
+          "biome_mb32rz8m",
+          "biome_mb31gq11",
+          "biome_mb31gq11"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb31cz8t",
+          "biome_mb31cz8t",
+          "biome_mb31cz8t/biome_mb32rz8m",
+          "biome_mb32rz8m",
+          "biome_mb31gq11",
+          "biome_mb31gq11"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb3379y6",
+          "biome_mb3379y6",
+          "biome_mb3379y6",
+          "biome_mb32rz8m",
+          "biome_mb31gq11",
+          "biome_mb31gq11"
         ]
       ]
     },
@@ -732,13 +764,13 @@
       "name": "Valley",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv"
         ],
         [
           "layout_mb38akoh",
@@ -810,13 +842,13 @@
       "name": "Low",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv"
         ],
         [
           "layout_mb38akoh",
@@ -888,13 +920,13 @@
       "name": "Med",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv"
         ],
         [
           "layout_mb38akoh",
@@ -966,13 +998,13 @@
       "name": "High",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv"
         ],
         [
           "layout_mb38akoh",
@@ -1044,13 +1076,13 @@
       "name": "Peaks",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv",
+          "layout_mb39nnrv"
         ],
         [
           "layout_mb38akoh",
