@@ -2,10 +2,10 @@
 // tables, recipes, tags, ect.
 
 global.nukelist = [
-  'crossroads:ore_void',
-  'refinedstorage:fluid_grid',
-  'refinedstorage:fluid_interface',
-  'refinedstorage:wireless_fluid_grid',
+  "crossroads:ore_void",
+  "refinedstorage:fluid_grid",
+  "refinedstorage:fluid_interface",
+  "refinedstorage:wireless_fluid_grid",
   "aether_overworld_ores:holystone_coal_ore",
   "aether_overworld_ores:holystone_copper_ore",
   "aether_overworld_ores:holystone_emerald_ore",
@@ -351,6 +351,7 @@ global.nukelist = [
   "tconstruct:small_ender_slime_crystal_bud",
   "tconstruct:stripped_enderbark_log",
   "tconstruct:stripped_enderbark_wood",
+  "refinedstorage:creative_controller",
   "traveloptics:aqua_echo",
   "traveloptics:aqua_upgrade_orb",
   "traveloptics:archive_of_abyssal_secrets",
@@ -405,6 +406,7 @@ global.nukelist = [
   /^regions_unexplored:.+?_painted_slab/,
   /^regions_unexplored:.+?_painted_stairs/,
   /^regions_unexplored:.+?_shrub/,
+  /^scguns:.+?_niter_glass/,
   /^tconstruct:enderbark.+/,
   /^traveloptics:augment.+/,
   /^vintagedelight:salt_lamp_.+/,

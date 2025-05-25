@@ -1,0 +1,6716 @@
+{
+  "dimensionName": "minecraft:overworld",
+  "continentalnesses": [
+    -1.2,
+    -1.05,
+    -0.455,
+    -0.19,
+    -0.11,
+    0.03,
+    0.3,
+    0.8,
+    1
+  ],
+  "erosions": [
+    -1,
+    -0.78,
+    -0.375,
+    -0.22,
+    0.05,
+    0.45,
+    0.55,
+    1
+  ],
+  "weirdnesses": [
+    -1,
+    -0.93,
+    -0.77,
+    -0.5700000000000001,
+    -0.4,
+    -0.27,
+    -0.05,
+    0.05,
+    0.27,
+    0.4,
+    0.5700000000000001,
+    0.77,
+    0.93,
+    1
+  ],
+  "temperatures": [
+    -1,
+    -0.45,
+    -0.15,
+    0.2,
+    0.55,
+    1
+  ],
+  "humidities": [
+    -1,
+    -0.35000000000000003,
+    -0.1,
+    0.1,
+    0.3,
+    0.7000000000000001,
+    1
+  ],
+  "depths": [
+    -1,
+    -0.5,
+    0,
+    1
+  ],
+  "dimension": {
+    "key": "dimension",
+    "name": "Biomes",
+    "array": [
+      [
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r"
+      ],
+      [
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r",
+        "layout_ma30x93r"
+      ],
+      [
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat",
+        "layout_ma310iat"
+      ]
+    ]
+  },
+  "modes": [
+    "A",
+    "A",
+    "A",
+    "A",
+    "A",
+    "A",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B"
+  ],
+  "layouts": [
+    {
+      "key": "layout_ma30x93r",
+      "name": "Aether",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_ma310e5a",
+      "name": "Caves",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_ma310iat",
+      "name": "Deep Caves",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_ma30xo1q",
+      "name": "Nether",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb38abxn",
+      "name": "River",
+      "array": [
+        [
+          "biome_mb31fwx0",
+          "biome_mb31fwx0",
+          "biome_mb31fwx0",
+          "biome_mb31fwx0",
+          "biome_mb31fwx0",
+          "biome_mb31fwx0"
+        ],
+        [
+          "biome_mb32y5wh",
+          "biome_mb32y5wh",
+          "biome_mb32y5wh",
+          "biome_mb32y5wh",
+          "biome_mb32y5wh",
+          "biome_mb32y5wh"
+        ],
+        [
+          "biome_mb32mzsj",
+          "biome_mb32mzsj",
+          "biome_mb32mzsj",
+          "biome_mb32mzsj",
+          "biome_mb32mzsj",
+          "biome_mb32mzsj"
+        ],
+        [
+          "biome_mb38yts8",
+          "biome_mb38yts8",
+          "biome_mb38yts8",
+          "biome_mb3328nv",
+          "biome_mb3328nv",
+          "biome_mb3328nv"
+        ],
+        [
+          "biome_mb38ykd3",
+          "biome_mb38ykd3",
+          "biome_mb38ykd3",
+          "biome_mb3369om",
+          "biome_mb3369om",
+          "biome_mb3369om"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb38agus",
+      "name": "Ocean",
+      "array": [
+        [
+          "biome_mb31fc7a",
+          "biome_mb31fc7a",
+          "biome_mb31fc7a",
+          "biome_mb31fc7a",
+          "biome_mb31fc7a",
+          "biome_mb31fc7a"
+        ],
+        [
+          "biome_mb31ag53",
+          "biome_mb31ag53",
+          "biome_mb31ag53",
+          "biome_mb31ag53",
+          "biome_mb31ag53",
+          "biome_mb31ag53"
+        ],
+        [
+          "biome_mb31h07z",
+          "biome_mb31h07z",
+          "biome_mb31h07z",
+          "biome_mb31h07z",
+          "biome_mb31h07z",
+          "biome_mb31h07z"
+        ],
+        [
+          "biome_mb31gfm6",
+          "biome_mb31gfm6",
+          "biome_mb31gfm6",
+          "biome_mb31gfm6",
+          "biome_mb31gfm6",
+          "biome_mb31gfm6"
+        ],
+        [
+          "biome_mb32pnib",
+          "biome_mb32pnib",
+          "biome_mb32pnib",
+          "biome_mb32pnib",
+          "biome_mb32pnib",
+          "biome_mb32pnib"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb38akoh",
+      "name": "Deep Ocean",
+      "array": [
+        [
+          "biome_mb3310yd",
+          "biome_mb3310yd",
+          "biome_mb3310yd",
+          "biome_mb3310yd",
+          "biome_mb3310yd",
+          "biome_mb3310yd"
+        ],
+        [
+          "biome_mb31by41",
+          "biome_mb31by41",
+          "biome_mb31by41",
+          "biome_mb31by41",
+          "biome_mb31by41",
+          "biome_mb31by41"
+        ],
+        [
+          "biome_mb31ayk7",
+          "biome_mb31ayk7",
+          "biome_mb31ayk7",
+          "biome_mb31ayk7",
+          "biome_mb31ayk7",
+          "biome_mb31ayk7"
+        ],
+        [
+          "biome_mb31cjyo",
+          "biome_mb31cjyo",
+          "biome_mb31cjyo",
+          "biome_mb31cjyo",
+          "biome_mb31cjyo",
+          "biome_mb31cjyo"
+        ],
+        [
+          "biome_mb31c9lc",
+          "biome_mb31c9lc",
+          "biome_mb31c9lc",
+          "biome_mb31c9lc",
+          "biome_mb31c9lc",
+          "biome_mb31c9lc"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb39nnrv",
+      "name": "Ocean Oddity",
+      "array": [
+        [
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_fields"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    }
+  ],
+  "slices": [
+    {
+      "key": "layout_mb348ybp",
+      "name": "Valley",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh"
+        ],
+        [
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus"
+        ],
+        [
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn"
+        ],
+        [
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "layout_mb38abxn",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb348kdz",
+      "name": "Low",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh"
+        ],
+        [
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb348rd3",
+      "name": "Med",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh"
+        ],
+        [
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb348un8",
+      "name": "High",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh"
+        ],
+        [
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb389w5d",
+      "name": "Peaks",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh",
+          "layout_mb38akoh"
+        ],
+        [
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus",
+          "layout_mb38agus"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb382ipp",
+      "name": "Nether",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    },
+    {
+      "key": "layout_mb382nfe",
+      "name": "Aether",
+      "array": [
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ],
+        [
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned",
+          "unassigned"
+        ]
+      ]
+    }
+  ],
+  "biomes": [
+    {
+      "key": "minecraft:mushroom_fields",
+      "name": "minecraft:mushroom_fields"
+    },
+    {
+      "key": "biome_mb30vf44",
+      "name": "atmospheric:aspen_parkland",
+      "color": "#b8a800"
+    },
+    {
+      "key": "biome_mb30vry7",
+      "name": "atmospheric:dunes",
+      "color": "#fbff00"
+    },
+    {
+      "key": "biome_mb30w18n",
+      "name": "atmospheric:flourishing_dunes",
+      "color": "#9500b3"
+    },
+    {
+      "key": "biome_mb30w9jn",
+      "name": "atmospheric:kousa_jungle",
+      "color": "#156100"
+    },
+    {
+      "key": "biome_mb30wja2",
+      "name": "atmospheric:petrified_dunes",
+      "color": "#ada800"
+    },
+    {
+      "key": "biome_mb30wv9e",
+      "name": "atmospheric:rainforest",
+      "color": "#e00000"
+    },
+    {
+      "key": "biome_mb30x30t",
+      "name": "atmospheric:rainforest_basin",
+      "color": "#990000"
+    },
+    {
+      "key": "biome_mb30xeig",
+      "name": "atmospheric:rocky_dunes",
+      "color": "#c8d3ab"
+    },
+    {
+      "key": "biome_mb30xtxh",
+      "name": "atmospheric:scrubland",
+      "color": "#89ca53"
+    },
+    {
+      "key": "biome_mb30y4u3",
+      "name": "atmospheric:snowy_scrubland",
+      "color": "#b9c4b1"
+    },
+    {
+      "key": "biome_mb310hgi",
+      "name": "atmospheric:sparse_rainforest",
+      "color": "#009966"
+    },
+    {
+      "key": "biome_mb3104g3",
+      "name": "atmospheric:sparse_rainforest_basin",
+      "color": "#00a35c"
+    },
+    {
+      "key": "biome_mb310w2x",
+      "name": "excessive_building:maple_forest",
+      "color": "#d66000"
+    },
+    {
+      "key": "biome_mb3116oo",
+      "name": "excessive_building:snowy_maple_forest",
+      "color": "#e4bc4e"
+    },
+    {
+      "key": "biome_mb311pvl",
+      "name": "galosphere:crystal_canyons",
+      "color": "#ee00ff"
+    },
+    {
+      "key": "biome_mb312b6p",
+      "name": "galosphere:lichen_caves",
+      "color": "#a8ffe2"
+    },
+    {
+      "key": "biome_mb312mrm",
+      "name": "galosphere:pink_salt_caves",
+      "color": "#ffb8f9"
+    },
+    {
+      "key": "biome_mb312w3k",
+      "name": "hexalia:enchanted_bayou",
+      "color": "#00d170"
+    },
+    {
+      "key": "biome_mb3144t4",
+      "name": "minecraft:badlands",
+      "color": "#db8000"
+    },
+    {
+      "key": "biome_mb315zpj",
+      "name": "minecraft:bamboo_jungle",
+      "color": "#b7ffad"
+    },
+    {
+      "key": "biome_mb316bjf",
+      "name": "minecraft:beach",
+      "color": "#feeb71"
+    },
+    {
+      "key": "biome_mb319bv2",
+      "name": "minecraft:birch_forest",
+      "color": "#cfe84f"
+    },
+    {
+      "key": "biome_mb319l6x",
+      "name": "minecraft:cherry_grove",
+      "color": "#fe86e8"
+    },
+    {
+      "key": "biome_mb31ag53",
+      "name": "minecraft:cold_ocean",
+      "color": "#0039bd"
+    },
+    {
+      "key": "biome_mb31aon3",
+      "name": "minecraft:dark_forest",
+      "color": "#791f01"
+    },
+    {
+      "key": "biome_mb31ayk7",
+      "name": "minecraft:deep_cold_ocean",
+      "color": "#0005a3"
+    },
+    {
+      "key": "biome_mb31binh",
+      "name": "minecraft:deep_dark",
+      "color": "#005239"
+    },
+    {
+      "key": "biome_mb31by41",
+      "name": "minecraft:deep_frozen_ocean",
+      "color": "#00d8db"
+    },
+    {
+      "key": "biome_mb31c9lc",
+      "name": "minecraft:deep_lukewarm_ocean",
+      "color": "#00787a"
+    },
+    {
+      "key": "biome_mb31cjyo",
+      "name": "minecraft:deep_ocean",
+      "color": "#0050b8"
+    },
+    {
+      "key": "biome_mb31cz8t",
+      "name": "minecraft:desert",
+      "color": "#fff700"
+    },
+    {
+      "key": "biome_mb31d80j",
+      "name": "minecraft:dripstone_caves",
+      "color": "#8c6a4a"
+    },
+    {
+      "key": "biome_mb31et5s",
+      "name": "minecraft:eroded_badlands",
+      "color": "#feaa34"
+    },
+    {
+      "key": "biome_mb31f1uf",
+      "name": "minecraft:flower_forest",
+      "color": "#622bf7"
+    },
+    {
+      "key": "biome_mb31fc7a",
+      "name": "minecraft:frozen_ocean",
+      "color": "#05a895"
+    },
+    {
+      "key": "biome_mb31fm85",
+      "name": "minecraft:frozen_peaks",
+      "color": "#00c78b"
+    },
+    {
+      "key": "biome_mb31fwx0",
+      "name": "minecraft:frozen_river",
+      "color": "#2effb9"
+    },
+    {
+      "key": "biome_mb31g5mk",
+      "name": "minecraft:jungle",
+      "color": "#850000"
+    },
+    {
+      "key": "biome_mb31gfm6",
+      "name": "minecraft:lukewarm_ocean",
+      "color": "#4785ff"
+    },
+    {
+      "key": "biome_mb31gq11",
+      "name": "minecraft:lush_caves",
+      "color": "#32ff24"
+    },
+    {
+      "key": "biome_mb31h07z",
+      "name": "minecraft:ocean",
+      "color": "#34708d"
+    },
+    {
+      "key": "biome_mb32mbfk",
+      "name": "minecraft:old_growth_birch_forest",
+      "color": "#d9ff52"
+    },
+    {
+      "key": "biome_mb32mq0j",
+      "name": "minecraft:old_growth_spruce_taiga",
+      "color": "#850000"
+    },
+    {
+      "key": "biome_mb32mzsj",
+      "name": "minecraft:river",
+      "color": "#777ff3"
+    },
+    {
+      "key": "biome_mb32n952",
+      "name": "minecraft:snowy_beach",
+      "color": "#cfcfcf"
+    },
+    {
+      "key": "biome_mb32njpe",
+      "name": "minecraft:sparse_jungle",
+      "color": "#00d636"
+    },
+    {
+      "key": "biome_mb32odjp",
+      "name": "minecraft:sunflower_plains",
+      "color": "#fff700"
+    },
+    {
+      "key": "biome_mb32oqng",
+      "name": "minecraft:swamp",
+      "color": "#0a8f00"
+    },
+    {
+      "key": "biome_mb32pnib",
+      "name": "minecraft:warm_ocean",
+      "color": "#3dcfff"
+    },
+    {
+      "key": "biome_mb32qu8d",
+      "name": "minecraft:windswept_savanna",
+      "color": "#ffac38"
+    },
+    {
+      "key": "biome_mb32r2vn",
+      "name": "minecraft:wooded_badlands",
+      "color": "#b89000"
+    },
+    {
+      "key": "biome_mb32rgoq",
+      "name": "quark:glimmering_weald",
+      "color": "#a8ffca"
+    },
+    {
+      "key": "biome_mb32rqtr",
+      "name": "regions_unexplored:alpha_grove",
+      "color": "#4dff00"
+    },
+    {
+      "key": "biome_mb32rz8m",
+      "name": "regions_unexplored:ancient_delta",
+      "color": "#24ffab"
+    },
+    {
+      "key": "biome_mb32s7nx",
+      "name": "regions_unexplored:ashen_woodland",
+      "color": "#888888"
+    },
+    {
+      "key": "biome_mb32savo",
+      "name": "regions_unexplored:bayou",
+      "color": "#026100"
+    },
+    {
+      "key": "biome_mb32ssih",
+      "name": "regions_unexplored:bioshroom_caves",
+      "color": "#001eff"
+    },
+    {
+      "key": "biome_mb32t4zq",
+      "name": "regions_unexplored:blackwood_taiga",
+      "color": "#5c5c5c"
+    },
+    {
+      "key": "biome_mb32tcvn",
+      "name": "regions_unexplored:boreal_taiga",
+      "color": "#e04300"
+    },
+    {
+      "key": "biome_mb32tko6",
+      "name": "regions_unexplored:chalk_cliffs",
+      "color": "#ffffff"
+    },
+    {
+      "key": "biome_mb32tu5x",
+      "name": "regions_unexplored:clover_plains",
+      "color": "#34c200"
+    },
+    {
+      "key": "biome_mb32xura",
+      "name": "regions_unexplored:cold_boreal_taiga",
+      "color": "#5bf0fb"
+    },
+    {
+      "key": "biome_mb32y5wh",
+      "name": "regions_unexplored:cold_river",
+      "color": "#008285"
+    },
+    {
+      "key": "biome_mb32yjs0",
+      "name": "regions_unexplored:fen",
+      "color": "#925807"
+    },
+    {
+      "key": "biome_mb32yyoa",
+      "name": "regions_unexplored:flower_fields",
+      "color": "#ff0059"
+    },
+    {
+      "key": "biome_mb32zan8",
+      "name": "regions_unexplored:frozen_tundra",
+      "color": "#57ffeb"
+    },
+    {
+      "key": "biome_mb32znld",
+      "name": "regions_unexplored:fungal_fen",
+      "color": "#ff00bb"
+    },
+    {
+      "key": "biome_mb3301fh",
+      "name": "regions_unexplored:golden_boreal_taiga",
+      "color": "#fbff00"
+    },
+    {
+      "key": "biome_mb3309u5",
+      "name": "regions_unexplored:grassy_beach",
+      "color": "#459900"
+    },
+    {
+      "key": "biome_mb330k5z",
+      "name": "regions_unexplored:gravel_beach",
+      "color": "#888888"
+    },
+    {
+      "key": "biome_mb330n7b",
+      "name": "regions_unexplored:highland_fields",
+      "color": "#707070"
+    },
+    {
+      "key": "biome_mb3310yd",
+      "name": "regions_unexplored:hyacinth_deeps",
+      "color": "#6e00db"
+    },
+    {
+      "key": "biome_mb331bnv",
+      "name": "regions_unexplored:magnolia_woodland",
+      "color": "#8a0000"
+    },
+    {
+      "key": "biome_mb331opi",
+      "name": "regions_unexplored:marsh",
+      "color": "#008a29"
+    },
+    {
+      "key": "biome_mb332073",
+      "name": "regions_unexplored:mauve_hills",
+      "color": "#e420fe"
+    },
+    {
+      "key": "biome_mb3328nv",
+      "name": "regions_unexplored:muddy_river",
+      "color": "#700000"
+    },
+    {
+      "key": "biome_mb332g46",
+      "name": "regions_unexplored:old_growth_bayou",
+      "color": "#098a00"
+    },
+    {
+      "key": "biome_mb332q1m",
+      "name": "regions_unexplored:poppy_fields",
+      "color": "#db0000"
+    },
+    {
+      "key": "biome_mb332yzh",
+      "name": "regions_unexplored:prismachasm",
+      "color": "#8400a8"
+    },
+    {
+      "key": "biome_mb333ab5",
+      "name": "regions_unexplored:pumpkin_fields",
+      "color": "#ff8800"
+    },
+    {
+      "key": "biome_mb333ni1",
+      "name": "regions_unexplored:redstone_caves",
+      "color": "#fe2f2f"
+    },
+    {
+      "key": "biome_mb333zud",
+      "name": "regions_unexplored:redwoods",
+      "color": "#b80000"
+    },
+    {
+      "key": "biome_mb3347pl",
+      "name": "regions_unexplored:rocky_meadow",
+      "color": "#478a4c"
+    },
+    {
+      "key": "biome_mb334kg7",
+      "name": "regions_unexplored:rocky_reef",
+      "color": "#827373"
+    },
+    {
+      "key": "biome_mb3353cz",
+      "name": "regions_unexplored:scorching_caves",
+      "color": "#5f4e4e"
+    },
+    {
+      "key": "biome_mb335dov",
+      "name": "regions_unexplored:silver_birch_forest",
+      "color": "#fdffe0"
+    },
+    {
+      "key": "biome_mb335qce",
+      "name": "regions_unexplored:sparse_redwoods",
+      "color": "#c20000"
+    },
+    {
+      "key": "biome_mb3360d3",
+      "name": "regions_unexplored:temperate_grove",
+      "color": "#66b5ff"
+    },
+    {
+      "key": "biome_mb3369om",
+      "name": "regions_unexplored:tropical_river",
+      "color": "#ff7575"
+    },
+    {
+      "key": "biome_mb336lxy",
+      "name": "wetland_whimsy:marsh",
+      "color": "#00ccff"
+    },
+    {
+      "key": "biome_mb3370ck",
+      "name": "yungscavebiomes:frosted_caves",
+      "color": "#00a2c2"
+    },
+    {
+      "key": "biome_mb3379y6",
+      "name": "yungscavebiomes:lost_caves",
+      "color": "#dbd400"
+    },
+    {
+      "key": "biome_mb38ykd3",
+      "name": "climaterivers:warm_river",
+      "color": "#b2ff24"
+    },
+    {
+      "key": "biome_mb38yts8",
+      "name": "climaterivers:lukewarm_river",
+      "color": "#ecf000"
+    }
+  ],
+  "targetVersion": "1_19",
+  "exportSplines": false,
+  "exportBiomeColors": false,
+  "noiseSettingsName": "minecraft:overworld",
+  "dimensionTypeName": "minecraft:overworld",
+  "splines": {
+    "offset": {
+      "continentalnesses": [
+        -1.1,
+        -1.02,
+        -0.51,
+        -0.44,
+        -0.18,
+        -0.16,
+        -0.15,
+        -0.1,
+        0.25,
+        1
+      ],
+      "erosions": [
+        -0.85,
+        -0.7,
+        -0.4,
+        -0.35,
+        -0.1,
+        0.2,
+        0.4,
+        0.45,
+        0.55,
+        0.58,
+        0.7
+      ],
+      "splines": [
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 0.044,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": -0.2222,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": -0.2222,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": -0.12,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": -0.12,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.08880186,
+                "derivative": 1.16820288
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.69000006,
+                "derivative": 1.16820288
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.69000006,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 0,
+                "value": -0.08880186,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 0,
+                "value": -0.08880186,
+                "derivative": 1.16820288
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.69000006,
+                "derivative": 1.16820288
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.69000006,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.08880186,
+                "derivative": -1.16820288
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.115760356,
+                "derivative": 1.13364066
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6400001,
+                "derivative": 1.13364066
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6400001,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 0,
+                "value": -0.115760356,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 0,
+                "value": -0.115760356,
+                "derivative": 1.13364066
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6400001,
+                "derivative": 1.13364066
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6400001,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.115760356,
+                "derivative": -1.13364066
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": -1.25000004,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": -1.2166667066666665,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8015151399999999,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": -0.7981818066666666,
+                "value": 2.9802322e-8,
+                "derivative": 0.7603689
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.100000024,
+                "derivative": 0.7603689
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.100000024,
+                "derivative": -0.7603689
+              },
+              {
+                "location": -0.5351515933333333,
+                "value": 2.9802322e-8,
+                "derivative": -0.7603689
+              },
+              {
+                "location": -0.53181826,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": -0.11666669333333335,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.08333335999999991,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0.08333335999999991,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0.11666669333333335,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.53181826,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": 0.5351515933333333,
+                "value": 2.9802322e-8,
+                "derivative": 0.7603689
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.100000024,
+                "derivative": 0.7603689
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.100000024,
+                "derivative": -0.7603689
+              },
+              {
+                "location": 0.7981818066666666,
+                "value": 2.9802322e-8,
+                "derivative": -0.7603689
+              },
+              {
+                "location": 0.8015151399999999,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": 1.2166667066666665,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.25000004,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.2222,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.3,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.3,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.3,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.3,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0.30000000000000004
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.05,
+                "derivative": -0.30000000000000004
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0.30000000000000004
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.05,
+                "derivative": -0.30000000000000004
+              },
+              {
+                "location": 1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.15,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.15,
+                "derivative": -1.5
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0,
+                "derivative": 0.18
+              },
+              {
+                "location": -0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0,
+                "derivative": -0.18
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0,
+                "derivative": 0.18
+              },
+              {
+                "location": 0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0,
+                "derivative": -0.18
+              },
+              {
+                "location": 1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.08880186,
+                "derivative": 1.16820288
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.69000006,
+                "derivative": 1.16820288
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.69000006,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 0,
+                "value": -0.08880186,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 0,
+                "value": -0.08880186,
+                "derivative": 1.16820288
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.69000006,
+                "derivative": 1.16820288
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.69000006,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.08880186,
+                "derivative": -1.16820288
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.115760356,
+                "derivative": 1.13364066
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6400001,
+                "derivative": 1.13364066
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6400001,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 0,
+                "value": -0.115760356,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 0,
+                "value": -0.115760356,
+                "derivative": 1.13364066
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6400001,
+                "derivative": 1.13364066
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6400001,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.115760356,
+                "derivative": -1.13364066
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": -1.25000004,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": -1.2166667066666665,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8015151399999999,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": -0.7981818066666666,
+                "value": 2.9802322e-8,
+                "derivative": 0.7603689
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.100000024,
+                "derivative": 0.7603689
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.100000024,
+                "derivative": -0.7603689
+              },
+              {
+                "location": -0.5351515933333333,
+                "value": 2.9802322e-8,
+                "derivative": -0.7603689
+              },
+              {
+                "location": -0.53181826,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": -0.11666669333333335,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.08333335999999991,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0.08333335999999991,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0.11666669333333335,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.53181826,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": 0.5351515933333333,
+                "value": 2.9802322e-8,
+                "derivative": 0.7603689
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.100000024,
+                "derivative": 0.7603689
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.100000024,
+                "derivative": -0.7603689
+              },
+              {
+                "location": 0.7981818066666666,
+                "value": 2.9802322e-8,
+                "derivative": -0.7603689
+              },
+              {
+                "location": 0.8015151399999999,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": 1.2166667066666665,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.25000004,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.2222,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.3,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.3,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.3,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.3,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0.30000000000000004
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.05,
+                "derivative": -0.30000000000000004
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0.30000000000000004
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.05,
+                "derivative": -0.30000000000000004
+              },
+              {
+                "location": 1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.15,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.15,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.15,
+                "derivative": -1.5
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0,
+                "derivative": 0.18
+              },
+              {
+                "location": -0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0,
+                "derivative": -0.18
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0,
+                "derivative": 0.18
+              },
+              {
+                "location": 0.6666667,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0,
+                "derivative": -0.18
+              },
+              {
+                "location": 1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.08880186,
+                "derivative": 1.16820288
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.69000006,
+                "derivative": 1.16820288
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.69000006,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 0,
+                "value": -0.08880186,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 0,
+                "value": -0.08880186,
+                "derivative": 1.16820288
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.69000006,
+                "derivative": 1.16820288
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.69000006,
+                "derivative": -1.16820288
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.08880186,
+                "derivative": -1.16820288
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.115760356,
+                "derivative": 1.13364066
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6400001,
+                "derivative": 1.13364066
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6400001,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 0,
+                "value": -0.115760356,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 0,
+                "value": -0.115760356,
+                "derivative": 1.13364066
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6400001,
+                "derivative": 1.13364066
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6400001,
+                "derivative": -1.13364066
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.115760356,
+                "derivative": -1.13364066
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": -1.25000004,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": -1.2166667066666665,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8015151399999999,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": -0.7981818066666666,
+                "value": 2.9802322e-8,
+                "derivative": 0.7603689
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.100000024,
+                "derivative": 0.7603689
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.100000024,
+                "derivative": -0.7603689
+              },
+              {
+                "location": -0.5351515933333333,
+                "value": 2.9802322e-8,
+                "derivative": -0.7603689
+              },
+              {
+                "location": -0.53181826,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": -0.11666669333333335,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.08333335999999991,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0.08333335999999991,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 0.11666669333333335,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.53181826,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": 0.5351515933333333,
+                "value": 2.9802322e-8,
+                "derivative": 0.7603689
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.100000024,
+                "derivative": 0.7603689
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.100000024,
+                "derivative": -0.7603689
+              },
+              {
+                "location": 0.7981818066666666,
+                "value": 2.9802322e-8,
+                "derivative": -0.7603689
+              },
+              {
+                "location": 0.8015151399999999,
+                "value": 2.9802322e-8,
+                "derivative": 0
+              },
+              {
+                "location": 1.2166667066666665,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 1.25000004,
+                "value": -0.2222,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.2222,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.25,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.25,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.25,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.05,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.25,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.001,
+                "derivative": 0.03
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.003,
+                "derivative": 0.03
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.05,
+                "derivative": 0.282000012
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.05,
+                "derivative": -0.282000012
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.003,
+                "derivative": -0.03
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.001,
+                "derivative": -0.03
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.001,
+                "derivative": 0.03
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.003,
+                "derivative": 0.03
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.05,
+                "derivative": 0.282000012
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": 0.021000003
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.060000002,
+                "derivative": -0.021000003
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.05,
+                "derivative": -0.282000012
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.003,
+                "derivative": -0.03
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.001,
+                "derivative": -0.03
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": -1.5
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.36
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.36
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.36
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.36
+              },
+              {
+                "location": 1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": 0.20235021,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.7161751,
+                "derivative": 1.5414747000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 1.23,
+                "derivative": 1.5414747000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 1.23,
+                "derivative": -1.5414747000000002
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.7161751,
+                "derivative": -1.5414747000000002
+              },
+              {
+                "location": 0,
+                "value": 0.20235021,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.7161751,
+                "derivative": 1.5414747000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 1.23,
+                "derivative": 1.5414747000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 1.23,
+                "derivative": -1.5414747000000002
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.7161751,
+                "derivative": -1.5414747000000002
+              },
+              {
+                "location": 1.33333334,
+                "value": 0.20235021,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.44682026,
+                "derivative": 1.29953922
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.88,
+                "derivative": 1.29953922
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.88,
+                "derivative": -1.29953922
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.44682026,
+                "derivative": -1.29953922
+              },
+              {
+                "location": 0,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.44682026,
+                "derivative": 1.29953922
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.88,
+                "derivative": 1.29953922
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.88,
+                "derivative": -1.29953922
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.44682026,
+                "derivative": -1.29953922
+              },
+              {
+                "location": 1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.30829495,
+                "derivative": 1.1751152999999999
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.70000005,
+                "derivative": 1.1751152999999999
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.70000005,
+                "derivative": -1.1751152999999999
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.30829495,
+                "derivative": -1.1751152999999999
+              },
+              {
+                "location": 0,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.30829495,
+                "derivative": 1.1751152999999999
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.70000005,
+                "derivative": 1.1751152999999999
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.70000005,
+                "derivative": -1.1751152999999999
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.30829495,
+                "derivative": -1.1751152999999999
+              },
+              {
+                "location": 1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.25,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.42000002,
+                "derivative": 0.147000042
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.42000002,
+                "derivative": -0.147000042
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.25,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.25,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.42000002,
+                "derivative": 0.147000042
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.42000002,
+                "derivative": -0.147000042
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.35,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.25,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.0069999998,
+                "derivative": 0.21000000000000002
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.021,
+                "derivative": 0.21000000000000002
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.35,
+                "derivative": 1.9740000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.42000002,
+                "derivative": 0.147000042
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.42000002,
+                "derivative": -0.147000042
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.35,
+                "derivative": -1.9740000000000002
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.021,
+                "derivative": -0.21000000000000002
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.0069999998,
+                "derivative": -0.21000000000000002
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.0069999998,
+                "derivative": 0.21000000000000002
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.021,
+                "derivative": 0.21000000000000002
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.35,
+                "derivative": 1.9740000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.42000002,
+                "derivative": 0.147000042
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.42000002,
+                "derivative": -0.147000042
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.35,
+                "derivative": -1.9740000000000002
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.021,
+                "derivative": -0.21000000000000002
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.0069999998,
+                "derivative": -0.21000000000000002
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.1,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.1,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.36
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.36
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.02,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.36
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.36
+              },
+              {
+                "location": 1.00000004,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": -0.03,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.02,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": 0.34792626,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.9239631,
+                "derivative": 1.7281106999999998
+              },
+              {
+                "location": -0.6666667,
+                "value": 1.5,
+                "derivative": 1.7281106999999998
+              },
+              {
+                "location": -0.6666667,
+                "value": 1.5,
+                "derivative": -1.7281106999999998
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.9239631,
+                "derivative": -1.7281106999999998
+              },
+              {
+                "location": 0,
+                "value": 0.34792626,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.9239631,
+                "derivative": 1.7281106999999998
+              },
+              {
+                "location": 0.6666667,
+                "value": 1.5,
+                "derivative": 1.7281106999999998
+              },
+              {
+                "location": 0.6666667,
+                "value": 1.5,
+                "derivative": -1.7281106999999998
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.9239631,
+                "derivative": -1.7281106999999998
+              },
+              {
+                "location": 1.33333334,
+                "value": 0.34792626,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.5391705,
+                "derivative": 1.3824885
+              },
+              {
+                "location": -0.6666667,
+                "value": 1,
+                "derivative": 1.3824885
+              },
+              {
+                "location": -0.6666667,
+                "value": 1,
+                "derivative": -1.3824885
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.5391705,
+                "derivative": -1.3824885
+              },
+              {
+                "location": 0,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.5391705,
+                "derivative": 1.3824885
+              },
+              {
+                "location": 0.6666667,
+                "value": 1,
+                "derivative": 1.3824885
+              },
+              {
+                "location": 0.6666667,
+                "value": 1,
+                "derivative": -1.3824885
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.5391705,
+                "derivative": -1.3824885
+              },
+              {
+                "location": 1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.5391705,
+                "derivative": 1.3824885
+              },
+              {
+                "location": -0.6666667,
+                "value": 1,
+                "derivative": 1.3824885
+              },
+              {
+                "location": -0.6666667,
+                "value": 1,
+                "derivative": -1.3824885
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.5391705,
+                "derivative": -1.3824885
+              },
+              {
+                "location": 0,
+                "value": 0.2,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.5391705,
+                "derivative": 1.3824885
+              },
+              {
+                "location": 0.6666667,
+                "value": 1,
+                "derivative": 1.3824885
+              },
+              {
+                "location": 0.6666667,
+                "value": 1,
+                "derivative": -1.3824885
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.5391705,
+                "derivative": -1.3824885
+              },
+              {
+                "location": 1.33333334,
+                "value": 0.2,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.2,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6,
+                "derivative": 0.210000045
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6,
+                "derivative": -0.210000045
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.2,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.2,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6,
+                "derivative": 0.210000045
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6,
+                "derivative": -0.210000045
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.5,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.2,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0.299999982
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.03,
+                "derivative": 0.299999982
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.5,
+                "derivative": 2.82
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6,
+                "derivative": 0.210000045
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.6,
+                "derivative": -0.210000045
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.5,
+                "derivative": -2.82
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.03,
+                "derivative": -0.299999982
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": -0.299999982
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0.299999982
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.03,
+                "derivative": 0.299999982
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.5,
+                "derivative": 2.82
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6,
+                "derivative": 0.210000045
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.6,
+                "derivative": -0.210000045
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.5,
+                "derivative": -2.82
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.03,
+                "derivative": -0.299999982
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": -0.299999982
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.05,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.05,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.05,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.05,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.05,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.05,
+                "derivative": 0
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": 0
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.17,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.05,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": -1.5
+              },
+              {
+                "location": 0,
+                "value": -0.05,
+                "derivative": 1.5
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.05,
+                "derivative": -1.5
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.33333334,
+                "value": -0.02,
+                "derivative": 0.045
+              },
+              {
+                "location": -1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.8666667066666666,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": -0.4666666933333333,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": -0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": -0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0,
+                "value": -0.02,
+                "derivative": -0.045
+              },
+              {
+                "location": 0,
+                "value": -0.02,
+                "derivative": 0.045
+              },
+              {
+                "location": 0.2000000266666666,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.33333335999999997,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 0.4666666933333333,
+                "value": 0.03,
+                "derivative": 0.12
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": 0.14700000000000002
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.1,
+                "derivative": -0.14700000000000002
+              },
+              {
+                "location": 0.8666667066666666,
+                "value": 0.03,
+                "derivative": -0.12
+              },
+              {
+                "location": 1.00000004,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.1333333733333333,
+                "value": 0.01,
+                "derivative": 0
+              },
+              {
+                "location": 1.33333334,
+                "value": -0.02,
+                "derivative": -0.045
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    "factor": {
+      "continentalnesses": [
+        -0.19,
+        -0.15,
+        -0.1,
+        0.03,
+        0.06
+      ],
+      "erosions": [
+        -0.6,
+        -0.5,
+        -0.35,
+        -0.25,
+        -0.1,
+        0.03,
+        0.05,
+        0.35,
+        0.4,
+        0.45,
+        0.55,
+        0.58,
+        0.62
+      ],
+      "splines": [
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 3.95,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 2.67,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 2.67,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 6.3,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.30000004,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": -1.23000004,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": -0.10333335999999993,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": -0.03333335999999998,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": 0.03333335999999998,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": 0.10333335999999993,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.23000004,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.30000004,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.30000004,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": -1.23000004,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": -0.10333335999999993,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": -0.03333335999999998,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": 0.03333335999999998,
+                "value": 6.25,
+                "derivative": 0
+              },
+              {
+                "location": 0.10333335999999993,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.23000004,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.30000004,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 6.25,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 2.67,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 2.67,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 6.3,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.30000004,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": -1.23000004,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": -0.10333335999999993,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": -0.03333335999999998,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": 0.03333335999999998,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": 0.10333335999999993,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.23000004,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.30000004,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.30000004,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": -1.23000004,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": -0.10333335999999993,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": -0.03333335999999998,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": 0.03333335999999998,
+                "value": 5.47,
+                "derivative": 0
+              },
+              {
+                "location": 0.10333335999999993,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.23000004,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.30000004,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 5.47,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 2.67,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 2.67,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 6.3,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.30000004,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": -1.23000004,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": -0.10333335999999993,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": -0.03333335999999998,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": 0.03333335999999998,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": 0.10333335999999993,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.23000004,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.30000004,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.30000004,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": -1.23000004,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": -0.10333335999999993,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": -0.03333335999999998,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": 0.03333335999999998,
+                "value": 5.08,
+                "derivative": 0
+              },
+              {
+                "location": 0.10333335999999993,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.23000004,
+                "value": 0.625,
+                "derivative": 0
+              },
+              {
+                "location": 1.30000004,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 5.08,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 2.67,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.05,
+                "value": 2.67,
+                "derivative": 0
+              },
+              {
+                "location": 0.05,
+                "value": 6.3,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.2,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.2,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.85000004,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": -0.7666667066666666,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": -0.5666666933333333,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": -0.48333335999999993,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.48333335999999993,
+                "value": 4.69,
+                "derivative": 0
+              },
+              {
+                "location": 0.5666666933333333,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": 0.7666667066666666,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": 0.85000004,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.85000004,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": -0.7666667066666666,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": -0.5666666933333333,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": -0.48333335999999993,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.48333335999999993,
+                "value": 4.69,
+                "derivative": 0
+              },
+              {
+                "location": 0.5666666933333333,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": 0.7666667066666666,
+                "value": 1.56,
+                "derivative": 0
+              },
+              {
+                "location": 0.85000004,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.2333333733333331,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": -1.05000004,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": -0.28333336,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": -0.10000002666666663,
+                "value": 6.048437620749989,
+                "derivative": 0
+              },
+              {
+                "location": 0.10000002666666663,
+                "value": 4.941562379250011,
+                "derivative": 0
+              },
+              {
+                "location": 0.28333336,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": 1.05000004,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": 1.2333333733333331,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -1.2333333733333331,
+                "value": 6.3,
+                "derivative": 0
+              },
+              {
+                "location": -1.05000004,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": -0.28333336,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": -0.10000002666666663,
+                "value": 6.048437620749989,
+                "derivative": 0
+              },
+              {
+                "location": 0.10000002666666663,
+                "value": 4.941562379250011,
+                "derivative": 0
+              },
+              {
+                "location": 0.28333336,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": 1.05000004,
+                "value": 1.37,
+                "derivative": 0
+              },
+              {
+                "location": 1.2333333733333331,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 4.69,
+                "derivative": 0
+              }
+            ]
+          },
+          null
+        ]
+      ]
+    },
+    "jaggedness": {
+      "continentalnesses": [
+        -0.11,
+        0.03,
+        0.65
+      ],
+      "erosions": [
+        -1,
+        -0.78,
+        -0.5775,
+        -0.375
+      ],
+      "splines": [
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          },
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.63,
+                "derivative": 0
+              },
+              {
+                "location": -0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.315,
+                "derivative": 0
+              },
+              {
+                "location": -0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.15,
+                "derivative": 0
+              },
+              {
+                "location": 0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.315,
+                "derivative": 0
+              },
+              {
+                "location": -0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.15,
+                "derivative": 0
+              },
+              {
+                "location": 0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8500000533333333,
+                "value": 0.63,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.63,
+                "derivative": 0
+              },
+              {
+                "location": -0.4833333466666666,
+                "value": 0.63,
+                "derivative": 0
+              },
+              {
+                "location": -0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4833333466666666,
+                "value": 0.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.8500000533333333,
+                "value": 0.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.63,
+                "derivative": 0
+              },
+              {
+                "location": -0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": -0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.6666667,
+                "value": 0.63,
+                "derivative": 0
+              },
+              {
+                "location": -0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": -0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4000000233333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.4833333466666666,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.6666667,
+                "value": 0.3,
+                "derivative": 0
+              },
+              {
+                "location": 0.8500000533333333,
+                "value": 0,
+                "derivative": 0
+              },
+              {
+                "location": 0.9333333766666666,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          },
+          {
+            "coordinate": "weirdness",
+            "points": [
+              {
+                "location": 0,
+                "value": 0,
+                "derivative": 0
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "datapackVersion": 71,
+  "version": 6
+}

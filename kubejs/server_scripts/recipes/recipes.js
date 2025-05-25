@@ -1,14 +1,15 @@
+
+
+// let replaceitem = (toBeReplaced, replacingItem) => {
+//   event.replaceInput({ input: toBeReplaced }, toBeReplaced, replacingItem);
+//   global.nukelist.push(toBeReplaced);
+// };
+
+ServerEvents.recipes((event) => {
 let swap = (item1, item2) => {
   event.shapeless(item1, [item2]);
   event.shapeless(item2, [item1]);
 };
-
-let replaceitem = (toBeReplaced, replacingItem) => {
-  event.replaceInput({ input: toBeReplaced }, toBeReplaced, replacingItem);
-  global.nukelist.push(toBeReplaced);
-};
-
-ServerEvents.recipes((event) => {
   // Vanilla
   event.shaped("minecraft:hopper", ["A A", "ABA", " A "], {
     A: "#forge:ingots/tin",
@@ -59,5 +60,5 @@ ServerEvents.recipes((event) => {
     B: "#crossroads:ingots/copshowium",
     C: "refinedstorage:machine_casing",
   });
-  replaceitem(['refinedstorage:quartz_enriched_iron', 'scguns:treated_iron_ingot'])
+//   replaceitem(['refinedstorage:quartz_enriched_iron', 'scguns:treated_iron_ingot'])
 });
