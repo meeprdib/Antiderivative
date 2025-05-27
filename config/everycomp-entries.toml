@@ -326,6 +326,11 @@
 			guanostone = true
 			limestone = true
 
+		[types.stone_type.galosphere]
+			pink_salt = true
+			rose_pink_salt = true
+			pastel_pink_salt = true
+
 	[types.mud_type]
 
 		[types.mud_type.deep_aether]

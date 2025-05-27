@@ -302,44 +302,44 @@
       "name": "Nether",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb5wurqf",
+          "biome_mb5wurqf",
+          "biome_mb5x4nl4",
+          "biome_mb5ww7wo",
+          "biome_mb5ww7wo",
+          "biome_mb5ww7wo"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb5wurqf",
+          "biome_mb5x53hy",
+          "biome_mb5x4nl4",
+          "biome_mb5wv81v",
+          "biome_mb5wv81v",
+          "biome_mb5wv81v"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb5x53hy",
+          "biome_mb5x53hy",
+          "biome_mb5wukmk",
+          "biome_mb5wukmk",
+          "biome_mb5x4reg",
+          "biome_mb5x4reg"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb5wv1r8",
+          "biome_mb5x4znm",
+          "biome_mb5x4znm",
+          "biome_mb5x4ilg",
+          "biome_mb5x4ilg",
+          "biome_mb5wvdje"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb5wv1r8",
+          "biome_mb5wv1r8",
+          "biome_mb5x4znm",
+          "biome_mb5x4ilg",
+          "biome_mb5wvdje",
+          "biome_mb5wvdje"
         ]
       ]
     },
@@ -656,8 +656,8 @@
           "biome_mb30w9jn"
         ],
         [
-          "unassigned",
-          "unassigned",
+          "biome_mb32t4zq",
+          "biome_mb32t4zq",
           "biome_mb32njpe",
           "biome_mb31g5mk",
           "biome_mb30w9jn",
@@ -712,48 +712,48 @@
       ]
     },
     {
-      "key": "layout_mb3yp127",
+      "key": "layout_mb5gurmq",
       "name": "High",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb31fm85",
+          "biome_mb31fm85",
+          "biome_mb331bnv",
+          "biome_mb331bnv",
+          "biome_mb319l6x",
+          "biome_mb319l6x"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb31fm85",
+          "biome_mb31fm85",
+          "biome_mb31fm85",
+          "biome_mb31f1uf",
+          "biome_mb31f1uf",
+          "biome_mb31f1uf"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb30xeig",
+          "biome_mb30xeig",
+          "biome_mb32qu8d",
+          "biome_mb32qu8d",
+          "biome_mb315zpj",
+          "biome_mb315zpj"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb30wja2",
+          "biome_mb30wja2",
+          "biome_mb32qu8d",
+          "biome_mb32qu8d",
+          "biome_mb315zpj",
+          "biome_mb315zpj"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "biome_mb31et5s/biome_mb3144t4",
+          "biome_mb31et5s/biome_mb3144t4",
+          "biome_mb3144t4",
+          "biome_mb32r2vn",
+          "biome_mb32r2vn",
+          "biome_mb32r2vn"
         ]
       ]
     },
@@ -762,41 +762,41 @@
       "name": "Peaks",
       "array": [
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "biome_mb31fm85",
+          "biome_mb31fm85",
+          "biome_mb31fm85",
+          "biome_mb32tko6",
+          "biome_mb32tko6",
+          "biome_mb32tko6"
+        ],
+        [
+          "biome_mb30xtxh",
+          "biome_mb30xtxh",
+          "biome_mb30xtxh",
+          "biome_mb319l6x",
+          "biome_mb319l6x",
+          "biome_mb319l6x"
+        ],
+        [
+          "biome_mb30xtxh",
+          "biome_mb30xtxh",
+          "biome_mb30xtxh",
           "unassigned",
           "unassigned",
           "unassigned"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "biome_mb30wja2",
+          "biome_mb30wja2",
+          "biome_mb30wja2",
           "unassigned",
           "unassigned",
           "unassigned"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "biome_mb30wja2",
+          "biome_mb30wja2",
+          "biome_mb30wja2",
           "unassigned",
           "unassigned",
           "unassigned"
@@ -846,52 +846,6 @@
           "biome_mb316bjf",
           "biome_mb316bjf",
           "biome_mb316bjf"
-        ]
-      ]
-    },
-    {
-      "key": "layout_mb480d44",
-      "name": "Desert",
-      "array": [
-        [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
-        ],
-        [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
         ]
       ]
     }
@@ -1094,39 +1048,39 @@
           "layout_mb48oltp/layout_mb3ypqec"
         ],
         [
-          "layout_mb3yp127",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6/layout_mb48oltp",
+          "layout_mb3yp0s6/layout_mb48oltp",
+          "layout_mb3yp0s6/layout_mb48oltp",
           "layout_mb3xnsau"
         ],
         [
-          "layout_mb3yp127",
-          "layout_mb3yp127",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6/layout_mb48oltp",
+          "layout_mb3yp0s6/layout_mb48oltp",
           "layout_mb3xnsau"
         ],
         [
-          "layout_mb3yp127",
-          "layout_mb3yp127",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp/layout_mb3yp0s6",
           "layout_mb3xnsau"
         ],
         [
-          "layout_mb3yp127",
-          "layout_mb3yp127",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp/layout_mb3yp0s6",
           "layout_mb3xnsau"
         ]
       ]
@@ -1163,49 +1117,49 @@
           "layout_mb38agus"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp",
+          "layout_mb48oltp",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp"
         ]
       ]
     },
@@ -1241,49 +1195,49 @@
           "layout_mb38agus"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp",
+          "layout_mb48oltp",
+          "layout_mb48oltp",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb47ga14",
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp"
         ],
         [
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned",
-          "unassigned"
+          "layout_mb47ga14",
+          "layout_mb47ga14",
+          "layout_mb47ga14",
+          "layout_mb47ga14",
+          "layout_mb5gurmq",
+          "layout_mb3yp0s6",
+          "layout_mb48oltp"
         ]
       ]
     }
@@ -1851,12 +1805,77 @@
     {
       "key": "biome_mb4j2nar",
       "name": "deep_aether:mystic_aerglow_forest",
-      "color": "#888888"
+      "color": "#8800c7"
     },
     {
       "key": "biome_mb4j2qch",
       "name": "deep_aether:yagroot_swamp",
       "color": "#ad5400"
+    },
+    {
+      "key": "biome_mb5wukmk",
+      "name": "minecraft:nether_wastes",
+      "color": "#b80000"
+    },
+    {
+      "key": "biome_mb5wurqf",
+      "name": "minecraft:soul_sand_valley",
+      "color": "#00aed1"
+    },
+    {
+      "key": "biome_mb5wv1r8",
+      "name": "minecraft:basalt_deltas",
+      "color": "#545454"
+    },
+    {
+      "key": "biome_mb5wv81v",
+      "name": "minecraft:warped_forest",
+      "color": "#006466"
+    },
+    {
+      "key": "biome_mb5wvdje",
+      "name": "minecraft:crimson_forest",
+      "color": "#f00060"
+    },
+    {
+      "key": "biome_mb5ww7wo",
+      "name": "netherexp:black_ice_glaciers",
+      "color": "#000000"
+    },
+    {
+      "key": "biome_mb5wwd83",
+      "name": "netherexp:exhaust_mire",
+      "color": "#888888"
+    },
+    {
+      "key": "biome_mb5wwizz",
+      "name": "netherexp:sorrowsquash_pastures",
+      "color": "#888888"
+    },
+    {
+      "key": "biome_mb5x4ilg",
+      "name": "regions_unexplored:infernal_holt",
+      "color": "#ff7300"
+    },
+    {
+      "key": "biome_mb5x4nl4",
+      "name": "regions_unexplored:blackstone_basin",
+      "color": "#0017c7"
+    },
+    {
+      "key": "biome_mb5x4reg",
+      "name": "regions_unexplored:glistering_meadow",
+      "color": "#ff00ea"
+    },
+    {
+      "key": "biome_mb5x4znm",
+      "name": "regions_unexplored:mycotoxic_undergrowth",
+      "color": "#ebc400"
+    },
+    {
+      "key": "biome_mb5x53hy",
+      "name": "regions_unexplored:redstone_abyss",
+      "color": "#ff0000"
     }
   ],
   "targetVersion": "1_19",
