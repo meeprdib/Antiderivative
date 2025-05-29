@@ -10,7 +10,7 @@
   },
   {
     "when": "onjoin",
-    "mob": ["autumnity:snail", "autumnity:turkey"],
+    "mob": ["autumnity:snail", "autumnity:turkey", "minecraft:bat"],
     "result": "deny"
   },
   {
