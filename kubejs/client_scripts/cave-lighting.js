@@ -8,9 +8,15 @@ const biomeMap = {
     ancient_delta: [0.07, $Vec3(0.55, 0.78, 0.94)],
     redstone_caves: [0.05, $Vec3(0.15, 0.1, 0.1)],
     prismachasm: [0.05, "gay"],
+    pink_salt_caves: [0.07, $Vec3(0.11, 0.1, 0.1)],
+    lush_caves: [0.07, $Vec3(0.4, 0.38, 0.3)],
+    crystal_canyons: [0.07, $Vec3(0.3, 0.3, 0.3)],
 
     // Nether biomes
     nether_wastes: [0.5, $Vec3(0.7, 0.6, 0.6)],
+    warped_forest: [0.5, $Vec3(0.6, 0.7, 0.7)],
+    crimson_forest: [0.5, $Vec3(0.7, 0.6, 0.6)],
+
 }
 let color = $Vec3(1, 1, 1), light = 0;
 

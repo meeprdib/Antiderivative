@@ -79,10 +79,6 @@
     "modId": "autumnity",
     "version": "5.0.2"
   },
-  "balm-forge-1.20.1-7.3.30-all.jar": {
-    "modId": "balm",
-    "version": "7.3.30"
-  },
   "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar": {
     "modId": "betteradvancements",
     "version": "0.4.2.25"
@@ -90,6 +86,10 @@
   "BetterBeacons-Forge-1.20.1-2.0.0.jar": {
     "modId": "better_beacons",
     "version": "2.0.0"
+  },
+  "Block Swap-forge-1.20.1-5.0.0.0.jar": {
+    "modId": "blockswap",
+    "version": "5.0.0.0"
   },
   "blueprint-1.20.1-7.1.3.jar": {
     "modId": "blueprint",
@@ -472,9 +472,9 @@
     "modId": "lithostitched",
     "version": "1.4.8"
   },
-  "littlejoys-forge-1.20.1-20.1.8.jar": {
-    "modId": "littlejoys",
-    "version": "20.1.8"
+  "littlelogistics-mc1.20.1-v1.20.1.2.jar": {
+    "modId": "littlelogistics",
+    "version": "1.20.1.2"
   },
   "lmft-1.0.4+1.20.1-forge.jar": {
     "modId": "lmft",
@@ -727,10 +727,6 @@
   "structureessentials-1.20.1-4.7.jar": {
     "modId": "structureessentials",
     "version": "1.20.1-4.7"
-  },
-  "structurify-forge-mc1.20.1-1.0.11.jar": {
-    "modId": "structurify",
-    "version": "1.0.11"
   },
   "supermartijn642configlib-1.1.8-forge-mc1.20.jar": {
     "modId": "supermartijn642configlib",

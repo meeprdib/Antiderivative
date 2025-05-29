@@ -2,6 +2,8 @@
 // tables, recipes, tags, ect.
 
 global.nukelist = [
+  'hexalia:duckweed',
+  'regions_unexplored:duckweed',
   "crossroads:ore_void",
   "refinedstorage:fluid_grid",
   "refinedstorage:fluid_interface",

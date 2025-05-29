@@ -1,13 +1,28 @@
 [
-    {
-        "when": "onjoin",
-        "mob": ["autumnity:snail", "autumnity:turkey"],
-        "biome": ["excessive_building:maple_forest", "excessive_building:snowy_maple_forest"],
-        "result": "default"
-    },
-    {
-        "when": "onjoin",
-        "mob": ["autumnity:snail", "autumnity:turkey"],
-        "result": "deny"
-    }
+  {
+    "when": "onjoin",
+    "mob": ["autumnity:snail", "autumnity:turkey"],
+    "biome": [
+      "excessive_building:maple_forest",
+      "excessive_building:snowy_maple_forest"
+    ],
+    "result": "default"
+  },
+  {
+    "when": "onjoin",
+    "mob": ["autumnity:snail", "autumnity:turkey"],
+    "result": "deny"
+  },
+  {
+    "hostile": "true",
+    "dimension": "minecraft:overworld",
+    "minheight": 50,
+    "result": "deny"
+  },
+  {
+    "hostile": "true",
+    "dimension": "minecraft:overworld",
+    "maxheight": 50,
+    "result": "allow"
+  }
 ]
