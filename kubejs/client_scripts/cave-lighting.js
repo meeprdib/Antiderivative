@@ -11,11 +11,26 @@ const biomeMap = {
     pink_salt_caves: [0.07, $Vec3(0.11, 0.1, 0.1)],
     lush_caves: [0.07, $Vec3(0.4, 0.38, 0.3)],
     crystal_canyons: [0.07, $Vec3(0.3, 0.3, 0.3)],
+    frosted_caves: [0.06, $Vec3(0.3, 0.3, 0.4)],
+    lichen_caves: [0.05, $Vec3(0.3, 0.4, 0.3)],
+    lost_caves: [0.06, $Vec3(0.4, 0.3, 0.3)],
+    dripstone_caves: [0.04, $Vec3(0.4, 0.4, 0.4)],
+    deep_dark: [0.05, $Vec3(0.3, 0.5, 0.5)],
+    scorching_caves: [0.05, $Vec3(0.5, 0.5, 0.5)],
 
     // Nether biomes
-    nether_wastes: [0.5, $Vec3(0.7, 0.6, 0.6)],
-    warped_forest: [0.5, $Vec3(0.6, 0.7, 0.7)],
-    crimson_forest: [0.5, $Vec3(0.7, 0.6, 0.6)],
+    nether_wastes: [0.3, $Vec3(0.7, 0.6, 0.6)],
+    warped_forest: [0.3, $Vec3(0.6, 0.7, 0.7)],
+    black_ice_glaciers: [0.3, $Vec3(0.6, 0.6, 0.7)],
+    crimson_forest: [0.3, $Vec3(0.7, 0.6, 0.6)],
+    soul_sand_valley: [0.3, $Vec3(0.6, 0.7, 0.7)],
+    redstone_abyss: [0.3, $Vec3(0.8, 0.6, 0.6)],
+    blackstone_basin: [0.3, $Vec3(0.3, 0.4, 1.0)],
+    mycotoxic_undergrowth: [0.3, $Vec3(0.5, 0.3, 0.2)],
+    glistening_meadow: [0.3, $Vec3(0.7, 0.3, 0.7)],
+    infernal_holt: [0.3, $Vec3(0.4, 0.4, 0.4)],
+    basalt_deltas: [0.3, $Vec3(0.4, 0.4, 0.4)],
+
 
 }
 let color = $Vec3(1, 1, 1), light = 0;
