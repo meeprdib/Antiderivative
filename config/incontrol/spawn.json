@@ -10,7 +10,18 @@
   },
   {
     "when": "onjoin",
-    "mob": ["autumnity:snail", "autumnity:turkey", "minecraft:bat"],
+    "mob": [
+        "autumnity:snail",
+        "autumnity:turkey",
+        "minecraft:bat",
+        "irons_spellbooks:necromancer",
+        "scguns:cog_knight",
+        "scguns:cog_minion",
+        "scguns:dissident",
+        "scguns:hive",
+        "scguns:hornlin",
+        "scguns:zombified_hornlin"
+    ],
     "result": "deny"
   },
   {
