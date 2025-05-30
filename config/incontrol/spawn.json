@@ -9,6 +9,13 @@
     "result": "default"
   },
   {
+    "hostile": "true",
+    "dimension": "minecraft:overworld",
+    "minheight": 62,
+    "maxheight": 192,
+    "result": "deny"
+  },
+  {
     "when": "onjoin",
     "mob": [
         "autumnity:snail",
@@ -23,17 +30,5 @@
         "scguns:zombified_hornlin"
     ],
     "result": "deny"
-  },
-  {
-    "hostile": "true",
-    "dimension": "minecraft:overworld",
-    "minheight": 50,
-    "result": "deny"
-  },
-  {
-    "hostile": "true",
-    "dimension": "minecraft:overworld",
-    "maxheight": 50,
-    "result": "allow"
   }
 ]
