@@ -57,14 +57,11 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
-  "railcraft": {
-    "signals": true,
-    "track_component": true,
-    "locomotive": true,
-    "switch_track": true
-  },
   "jadeaddons.lootr": {
     "info": true
+  },
+  "aether_redux": {
+    "logicator": true
   },
   "delightful": {
     "crop_progress": true,
@@ -81,9 +78,6 @@
   },
   "apotheosis": {
     "adventure": true
-  },
-  "balm": {
-    "jade": true
   },
   "storagedrawers": {
     "display.stacklimit": true,

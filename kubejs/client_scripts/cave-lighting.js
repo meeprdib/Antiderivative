@@ -8,7 +8,7 @@ const biomeMap = {
     ancient_delta: [0.07, $Vec3(0.55, 0.78, 0.94)],
     redstone_caves: [0.05, $Vec3(0.15, 0.1, 0.1)],
     prismachasm: [0.05, "gay"],
-    pink_salt_caves: [0.07, $Vec3(0.11, 0.1, 0.1)],
+    pink_salt_caves: [0.07, $Vec3(0.33, 0.3, 0.3)],
     lush_caves: [0.07, $Vec3(0.4, 0.38, 0.3)],
     crystal_canyons: [0.07, $Vec3(0.3, 0.3, 0.3)],
     frosted_caves: [0.06, $Vec3(0.3, 0.3, 0.4)],
@@ -27,7 +27,7 @@ const biomeMap = {
     redstone_abyss: [0.3, $Vec3(0.8, 0.6, 0.6)],
     blackstone_basin: [0.3, $Vec3(0.3, 0.4, 1.0)],
     mycotoxic_undergrowth: [0.3, $Vec3(0.5, 0.3, 0.2)],
-    glistening_meadow: [0.3, $Vec3(0.7, 0.3, 0.7)],
+    glistering_meadow: [0.3, $Vec3(0.7, 0.3, 0.7)],
     infernal_holt: [0.3, $Vec3(0.4, 0.4, 0.4)],
     basalt_deltas: [0.3, $Vec3(0.4, 0.4, 0.4)],
 
