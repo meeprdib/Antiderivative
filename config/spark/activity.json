@@ -5,6 +5,19 @@
       "name": "meepr_dib",
       "uniqueId": "e167f3fe-1cc7-43aa-a558-cdd0babd44ce"
     },
+    "time": 1748584818512,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IMerUBR2KH"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "meepr_dib",
+      "uniqueId": "e167f3fe-1cc7-43aa-a558-cdd0babd44ce"
+    },
     "time": 1747029603728,
     "type": "Profiler",
     "data": {
