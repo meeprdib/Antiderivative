@@ -3,7 +3,9 @@
     "biomes": "#antiderivative:ore_generation",
     "features": [
         "antiderivative:ore_tin",
-        "antiderivative:ore_silver"
+        "antiderivative:ore_silver",
+        "antiderivative:ore_nether_ruby",
+        "antiderivative:ore_molten_ruby"
     ],
     "step": "underground_ores"
 }

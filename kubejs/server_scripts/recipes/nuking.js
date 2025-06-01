@@ -155,7 +155,6 @@ global.nukelist = [
   "crossroads:nitroglycerin",
   "crossroads:nugget_bronze",
   "crossroads:nugget_copper",
-  "crossroads:ore_ruby",
   "crossroads:ore_void",
   "crossroads:pig_zombie_chestplate",
   "crossroads:poison_vodka",

@@ -199,6 +199,10 @@
     "modId": "curios",
     "version": "5.14.1+1.20.1"
   },
+  "customoreveins-1.20-1.0.0-forge.jar": {
+    "modId": "customoreveins",
+    "version": "1.0.0"
+  },
   "cyanide-forge-1.20.1-4.1.1.jar": {
     "modId": "cyanide",
     "version": "4.1.1"
@@ -751,6 +755,10 @@
   "structureessentials-1.20.1-4.7.jar": {
     "modId": "structureessentials",
     "version": "1.20.1-4.7"
+  },
+  "structurify-forge-mc1.20.1-1.0.11.jar": {
+    "modId": "structurify",
+    "version": "1.0.11"
   },
   "supermartijn642configlib-1.1.8-forge-mc1.20.jar": {
     "modId": "supermartijn642configlib",
