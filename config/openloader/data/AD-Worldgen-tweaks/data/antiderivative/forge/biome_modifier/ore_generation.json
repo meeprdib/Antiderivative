@@ -1,0 +1,6 @@
+{
+    "type": "forge:add_features",
+    "biomes": "#antiderivative:ore_generation",
+    "features": "namespace:your_feature",
+    "step": "underground_ores"
+}
