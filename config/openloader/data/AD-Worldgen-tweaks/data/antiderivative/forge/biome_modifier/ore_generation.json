@@ -1,6 +1,9 @@
 {
     "type": "forge:add_features",
     "biomes": "#antiderivative:ore_generation",
-    "features": "namespace:your_feature",
+    "features": [
+        "antiderivative:ore_tin",
+        "antiderivative:ore_silver"
+    ],
     "step": "underground_ores"
 }

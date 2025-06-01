@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:scattered_ore",
+  "type": "minecraft:no_op",
   "config": {
     "discard_chance_on_air_exposure": 1.0,
     "size": 2,
