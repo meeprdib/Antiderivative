@@ -67,19 +67,19 @@
     "name": "Biomes",
     "array": [
       [
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r",
-        "layout_ma30x93r"
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned",
+        "unassigned"
       ],
       [
         "layout_mb348rd3",
@@ -159,52 +159,6 @@
     "B"
   ],
   "layouts": [
-    {
-      "key": "layout_ma30x93r",
-      "name": "Aether",
-      "array": [
-        [
-          "biome_mb4j2qch",
-          "biome_mb4j2qch",
-          "biome_mb4j2qch",
-          "biome_mb4j1e7o",
-          "biome_mb4j1e7o/biome_mb4j13lp",
-          "biome_mb4j13lp"
-        ],
-        [
-          "biome_mb4j2kbq",
-          "biome_mb4j2kbq/biome_mb4j1x6w",
-          "biome_mb4j1x6w",
-          "biome_mb4j1tyi",
-          "biome_mb4j1tyi/biome_mb4j1qxa",
-          "biome_mb4j1qxa"
-        ],
-        [
-          "biome_mb4j20y6",
-          "biome_mb4j20y6",
-          "biome_mb4j20y6",
-          "biome_mb4j1kml",
-          "biome_mb4j1kml/biome_mb4j1nq4",
-          "biome_mb4j1nq4"
-        ],
-        [
-          "biome_mb4j17e6",
-          "biome_mb4j27js",
-          "biome_mb4j27js",
-          "biome_mb4j245n",
-          "biome_mb4j245n/biome_mb4j0zer",
-          "biome_mb4j0zer"
-        ],
-        [
-          "biome_mb4j17e6",
-          "biome_mb4j2h7g/biome_mb4j17e6",
-          "biome_mb4j2h7g",
-          "biome_mb4j1apg",
-          "biome_mb4j1apg/biome_mb4j2e13",
-          "biome_mb4j2e13"
-        ]
-      ]
-    },
     {
       "key": "layout_ma310e5a",
       "name": "Caves",
@@ -1716,101 +1670,6 @@
       "key": "biome_mb38yts8",
       "name": "climaterivers:lukewarm_river",
       "color": "#ecf000"
-    },
-    {
-      "key": "biome_mb4j0zer",
-      "name": "aether_redux:cloudcaps",
-      "color": "#ae00ff"
-    },
-    {
-      "key": "biome_mb4j13lp",
-      "name": "aether_redux:frosted_forests",
-      "color": "#009eb3"
-    },
-    {
-      "key": "biome_mb4j17e6",
-      "name": "aether_redux:gilded_grasslands",
-      "color": "#fff700"
-    },
-    {
-      "key": "biome_mb4j1apg",
-      "name": "aether_redux:gilded_groves",
-      "color": "#e1ff00"
-    },
-    {
-      "key": "biome_mb4j1e7o",
-      "name": "aether_redux:glacial_tundra",
-      "color": "#00fffb"
-    },
-    {
-      "key": "biome_mb4j1kml",
-      "name": "aether_redux:skyroot_shrublands",
-      "color": "#8fffe9"
-    },
-    {
-      "key": "biome_mb4j1nq4",
-      "name": "aether_redux:the_blight",
-      "color": "#66005e"
-    },
-    {
-      "key": "biome_mb4j1qxa",
-      "name": "aether:skyroot_forest",
-      "color": "#11ff00"
-    },
-    {
-      "key": "biome_mb4j1tyi",
-      "name": "aether:skyroot_grove",
-      "color": "#52f3ff"
-    },
-    {
-      "key": "biome_mb4j1x6w",
-      "name": "aether:skyroot_meadow",
-      "color": "#00ffaa"
-    },
-    {
-      "key": "biome_mb4j20y6",
-      "name": "aether:skyroot_woodland",
-      "color": "#00b38f"
-    },
-    {
-      "key": "biome_mb4j245n",
-      "name": "deep_aether:aerglow_forest",
-      "color": "#cb5dfe"
-    },
-    {
-      "key": "biome_mb4j27js",
-      "name": "deep_aether:aerlavender_fields",
-      "color": "#b400cc"
-    },
-    {
-      "key": "biome_mb4j2ari",
-      "name": "deep_aether:blue_aerglow_forest",
-      "color": "#1e00ff"
-    },
-    {
-      "key": "biome_mb4j2e13",
-      "name": "deep_aether:golden_grove",
-      "color": "#f0dc00"
-    },
-    {
-      "key": "biome_mb4j2h7g",
-      "name": "deep_aether:golden_heights",
-      "color": "#e6bf00"
-    },
-    {
-      "key": "biome_mb4j2kbq",
-      "name": "deep_aether:luminescent_forest",
-      "color": "#d42b2b"
-    },
-    {
-      "key": "biome_mb4j2nar",
-      "name": "deep_aether:mystic_aerglow_forest",
-      "color": "#8800c7"
-    },
-    {
-      "key": "biome_mb4j2qch",
-      "name": "deep_aether:yagroot_swamp",
-      "color": "#ad5400"
     },
     {
       "key": "biome_mb5wukmk",
