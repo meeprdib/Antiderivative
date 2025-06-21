@@ -57,6 +57,12 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "railcraft": {
+    "signals": true,
+    "track_component": true,
+    "locomotive": true,
+    "switch_track": true
+  },
   "jadeaddons.lootr": {
     "info": true
   },

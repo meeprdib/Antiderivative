@@ -93,24 +93,6 @@
 			cottonwood = true
 			willow = true
 
-		[types.wood_type.aether]
-			skyroot = true
-
-		[types.wood_type.deep_aether]
-			roseroot = true
-			yagroot = true
-			cruderoot = true
-			conberry = true
-			sunroot = true
-
-		[types.wood_type.aether_redux]
-			fieldsproot = true
-			blightwillow = true
-			cloudcap = true
-			jellyshroom = true
-			crystal = true
-			glacia = true
-
 		[types.wood_type.alexscaves]
 			pewen = true
 			thornwood = true
@@ -211,32 +193,6 @@
 			currant = true
 			grimwood = true
 
-		[types.leaves_type.aether]
-			golden_oak = true
-			holiday = true
-			decorated_holiday = true
-			crystal = true
-			crystal_fruit = true
-			skyroot = true
-
-		[types.leaves_type.deep_aether]
-			flowering_roseroot = true
-			blue_roseroot = true
-			flowering_blue_roseroot = true
-			roseroot = true
-			yagroot = true
-			cruderoot = true
-			conberry = true
-			sunroot = true
-
-		[types.leaves_type.aether_redux]
-			fieldsproot = true
-			gilded_oak = true
-			blighted_skyroot = true
-			purple_glacia = true
-			blightwillow = true
-			glacia = true
-
 		[types.leaves_type.alexscaves]
 			ancient = true
 
@@ -251,17 +207,6 @@
 
 		[types.stone_type.caverns_and_chasms]
 			sugilite = true
-
-		[types.stone_type.aether_redux]
-			sentrite = true
-			divinite = true
-			driftshale = true
-
-		[types.stone_type.deep_aether]
-			clorite = true
-			raw_clorite = true
-			aseterite = true
-			nimbus_stone = true
 
 		[types.stone_type.quark]
 			soul_sandstone = true
@@ -290,12 +235,6 @@
 
 		[types.stone_type.wetland_whimsy]
 			limestone = true
-
-		[types.stone_type.aether]
-			holystone = true
-			carved_stone = true
-			angelic_stone = true
-			hellfire_stone = true
 
 		[types.stone_type.architects_palette]
 			abyssaline = true
@@ -330,11 +269,6 @@
 			pink_salt = true
 			rose_pink_salt = true
 			pastel_pink_salt = true
-
-	[types.mud_type]
-
-		[types.mud_type.deep_aether]
-			aether_mud = true
 
 #Disables specific entries
 [entries]
