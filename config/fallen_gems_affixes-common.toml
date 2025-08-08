@@ -1,0 +1,14 @@
+
+["Mod Config"]
+	#Enable gem socket injection into items via loot modifier
+	enableSocketGemInjector = true
+	#Chance to insert a random gem into each socket slot, 1.0 means 100%
+	#Range: 0.0 ~ 1.0
+	socketGemChance = 0.3
+	#Enable the SocketHelperMixin that allows gaps between sockets
+	enableSocketHelperMixin = true
+	#Switch the implementation type of PermanentEffectBonus
+	#True: Switches to Player Tick event, Permanent Effect Bonus will apply every tick, worse performance but better compatibility
+	#False: Use default implementation, aggressive but no Player Tick event, better for performance
+	permanentEffectUseTickEvent = false
+

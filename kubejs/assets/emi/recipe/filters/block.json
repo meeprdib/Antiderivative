@@ -8,6 +8,9 @@
     { "category": "rubinated_nether:freezing" },
     { "category": "rubinated_nether:freezer_fuel" },
     { "category": "alexscaves:spelunkery_table" },
-    { "category": "crossroads:reag_info" }
+    { "category": "crossroads:reag_info" },
+    { "id": "toomanyrecipeviewers:/scguns/kjs/50orezxtm1i7z1y34mn9k6qoo" },
+    { "id": "toomanyrecipeviewers:/scguns/powered_macerator/powered_treated_brass_blend_from_macerating" },
+    { "id": "toomanyrecipeviewers:/scguns/macerator/treated_brass_blend_from_macerating" }
   ]
 }

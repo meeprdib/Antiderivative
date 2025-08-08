@@ -85,7 +85,6 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
-		"regions_unexplored:duckweed": "excessive_building:algae_block",
-		"hexalia:duckweed": "excessive_building:algae_block"
+		"regions_unexplored:duckweed": "excessive_building:algae_block"
 	}
 }

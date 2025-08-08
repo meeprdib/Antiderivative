@@ -1,0 +1,21 @@
+{
+	"replace": true,
+	"requirement": {
+		"type": "tetra:and",
+		"requirements": [{
+			"type": "tetra:craft_type",
+			"craft": "module"
+		}, {
+			"type": "tetra:material",
+			"material": {
+				"tag": "minecraft:logs"
+			}
+		}]
+	},
+	"outcomes": [{
+		"type": "tetra:apply_improvements",
+		"improvements": {
+			"thick": 0
+		}
+	}]
+}

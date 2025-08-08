@@ -1,0 +1,18 @@
+{
+  "conditions": [{ "type": "forge:mod_loaded", "modid": "farmersdelight" }],
+  "key": "straw",
+  "category": "fibre",
+  "primary": 1,
+  "secondary": 0.5,
+  "tertiary": 3.5,
+  "durability": 40,
+  "integrityCost": 1,
+  "integrityGain": 3,
+  "magicCapacity": 82,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
+  "tints": { "glyph": "966537", "texture": "623a17" },
+  "textures": ["crude", "default"],
+  "material": { "items": ["farmersdelight:straw"], "count": 4 },
+  "requiredTools": { "cut": "minecraft:stone" }
+}

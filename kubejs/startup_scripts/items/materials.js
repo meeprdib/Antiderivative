@@ -1,9 +1,31 @@
-StartupEvents.registry("item", (event) => {
-  event.create("cobalt_dust");
-  event.create("lead_dust");
-  event.create("silver_dust");
+global.extendedMaterials = [
+  "lead",
+  "silver",
+  "cobalt",
+  "soulstone",
+  "brilliance"
+];
 
-  event.create("cobalt_grit");
-  event.create("lead_grit");
-  event.create("silver_grit");
+let newItems = [
+  "soulstone_nugget",
+  "brilliance_nugget",
+  "electrum_blend",
+  "netherite_blend",
+  'endsteel_blend',
+  'vobrivium_blend'
+];
+
+StartupEvents.registry("item", event => {
+  global.extendedMaterials.forEach(material => {
+    event.create(`${material}_dust`);
+    event.create(`${material}_grit`);
+  });
+
+  newItems.forEach(item => {
+    event.create(item);
+  });
 });
+
+StartupEvents.registry("fluid", event => {
+  event.create("molten_soulstone").thickTexture(0xA338A8)
+})

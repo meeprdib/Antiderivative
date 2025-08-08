@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "slots": ["double/head_left"],
+  "keySuffixes": ["_left"],
+  "materialSlotCount": 1,
+  "materialRevealSlot": 0,
+  "rarity": "temporary",
+  "displayType": "major",
+  "requirement": {
+    "type": "tetra:module",
+    "module": "double/amethystgale_left"
+  },
+  "glyph": {
+    "textureLocation": "tetra:textures/gui/glyph4.png"
+  },
+  "outcomes": [{
+    "material": {
+      "items": ["witheringboon:soulaniteingot"]
+    },
+    "requiredTools": {
+      "hammer_dig": "minecraft:diamond"
+    },
+    "moduleKey": "double/windforce",
+    "moduleVariant": "windforce/windforce"
+  }]
+}

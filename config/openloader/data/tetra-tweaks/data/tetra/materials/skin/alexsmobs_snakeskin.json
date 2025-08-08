@@ -1,0 +1,35 @@
+{
+    "key": "alexsmobs_snakeskin",
+    "category": "skin",
+    "primary": 5,
+    "secondary": 1.4,
+    "tertiary": 0.9,
+    "durability": 100,
+    "integrityCost": 1,
+    "integrityGain": 5,
+    "magicCapacity": 114,
+    "toolLevel": 0,
+    "toolEfficiency": 0,
+    "tints": {
+        "glyph": "D1DCE0",
+        "texture": "D1DCE0"
+    },
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [
+            "alexsmobs:shed_snake_skin"
+        ]
+    },
+    "requiredTools": {
+        "cut": "minecraft:gold"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ]
+}

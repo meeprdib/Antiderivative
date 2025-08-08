@@ -1,0 +1,38 @@
+
+[Vein]
+	#Maximum amount of ore in a vein
+	#Range: > 1
+	maxVein = 30000
+	#Maximum amount of mb in a gas vein (not natural gas)
+	#Range: > 1
+	gasMaxVein = 200000
+	#Chance to get a gas vein (not natural gas)
+	#Range: 1 ~ 100
+	gasChance = 25
+
+[pollution]
+	#Air pollution
+	airPollution = true
+	#Soil pollution
+	soilPollution = true
+
+[TransformerMode]
+	#Transformer mode enabled
+	TransformerMode = true
+	#Unchecking the tier
+	enableUnchecking = false
+	#Unlimiting the conduction of energy in the cable
+	cableUnlimiting = false
+	#Enable explosion from mechanisms if transformer mode is on
+	enableExplosion = true
+	#Enable lose energy in cables if transformer mode is on
+	enableLosing = true
+
+["Pressure Network"]
+	#Remove the pressure level restriction in the pressure system (allows machines to work at any pressure level)
+	pressureRestriction = true
+
+[Radiation]
+	#Enable damage from radiation
+	radiationDamageEnabled = true
+

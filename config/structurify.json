@@ -1,5 +1,6 @@
 {
-  "config_version": "1.0.11",
+  "config_version": "1.0.15",
+  "config_datetime": "2025-07-17_01-11-19",
   "general": {
     "min_structure_distance_from_world_center": 0,
     "disable_all_structures": false,
@@ -8,17 +9,6 @@
   },
   "structures": [
     {
-      "name": "minecraft:fortress",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
       "name": "minecraft:igloo",
       "is_disabled": true,
       "enable_flatness_check": false,
@@ -26,6 +16,40 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "minecraft:jungle_pyramid",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "minecraft:mansion",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -37,6 +61,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -48,6 +76,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -59,6 +91,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -70,6 +106,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -81,6 +121,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -92,6 +136,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -103,6 +151,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -114,17 +166,25 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "minecraft:swamp_hut",
+      "name": "minecraft:trail_ruins",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 0,
+      "flatness_check_distance": 80,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -136,6 +196,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -147,6 +211,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -158,6 +226,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -169,6 +241,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -180,105 +256,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:bronze_dungeon",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:gold_dungeon",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:ruined_portal",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:ruined_portal_aether",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:ruined_portal_desert",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:ruined_portal_jungle",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:ruined_portal_mountain",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:ruined_portal_swamp",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "aether:silver_dungeon",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -290,6 +271,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -301,6 +286,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -312,6 +301,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -323,6 +316,10 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
@@ -334,83 +331,145 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "deep_aether:brass_dungeon",
+      "name": "autumnity:maple_hut",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 0,
+      "flatness_check_distance": 64,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_distance": 64,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "oreganized:boulder",
+      "name": "biomeswevegone:village/forgotten",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 10,
+      "flatness_check_distance": 80,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 10,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "tconstruct:blood_island",
+      "name": "biomeswevegone:village/pumpkin_patch",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 0,
+      "flatness_check_distance": 80,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "tconstruct:clay_island",
+      "name": "biomeswevegone:village/red_rock",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 0,
+      "flatness_check_distance": 80,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "tconstruct:earth_slime_island",
+      "name": "biomeswevegone:village/salem",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 0,
+      "flatness_check_distance": 80,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "tconstruct:end_slime_island",
+      "name": "biomeswevegone:village/skyris",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 0,
+      "flatness_check_distance": 80,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
     {
-      "name": "tconstruct:sky_slime_island",
+      "name": "biomeswevegone:village/swamp",
       "is_disabled": true,
       "enable_flatness_check": false,
-      "flatness_check_distance": 0,
+      "flatness_check_distance": 80,
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
-      "biome_check_distance": 0,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "tetra:extractor_ruin",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 80,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 80,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "tetra:regular_ruin",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 60,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 60,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river"
+      ],
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     }

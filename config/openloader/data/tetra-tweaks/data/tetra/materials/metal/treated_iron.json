@@ -1,0 +1,17 @@
+{
+  "key": "treated_iron",
+  "category": "metal",
+  "primary": 6,
+  "secondary": 3.8,
+  "tertiary": 3,
+  "durability": 650,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 72,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 8,
+  "tints": { "glyph": "steel_glyph", "texture": "steel" },
+  "textures": ["metal", "default"],
+  "material": { "items": "scguns:treated_iron_ingot" },
+  "requiredTools": { "hammer_dig": "minecraft:iron" }
+}

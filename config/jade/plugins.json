@@ -39,7 +39,7 @@
     "entity_armor": true,
     "harvest_tool.creative": false,
     "horse_stats": true,
-    "item_tooltip": true,
+    "item_tooltip": false,
     "entity_health": true,
     "enchantment_power": true,
     "zombie_villager": true,
@@ -57,17 +57,8 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
-  "railcraft": {
-    "signals": true,
-    "track_component": true,
-    "locomotive": true,
-    "switch_track": true
-  },
   "jadeaddons.lootr": {
     "info": true
-  },
-  "aether_redux": {
-    "logicator": true
   },
   "delightful": {
     "crop_progress": true,
@@ -81,9 +72,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": false
-  },
-  "apotheosis": {
-    "adventure": true
   },
   "storagedrawers": {
     "display.stacklimit": true,

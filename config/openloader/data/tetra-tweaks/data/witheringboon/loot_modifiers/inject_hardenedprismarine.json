@@ -1,0 +1,10 @@
+{
+  "type": "witheringboon:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/elder_guardian"
+    }
+  ],
+  "item": "witheringboon:hardenedprismarine"
+}

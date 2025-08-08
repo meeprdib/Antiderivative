@@ -46,9 +46,9 @@
 	tweaks = false
 	world = true
 	mobs = false
-	client = false
+	client = true
 	experimental = true
-	oddities = false
+	oddities = true
 
 [automation]
 	"Chains Connect Blocks" = true
@@ -127,7 +127,7 @@
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
 	"Raw Metal Bricks" = true
-	Rope = true
+	Rope = false
 	"Shear Vines" = true
 	Shingles = true
 	"Soul Sandstone" = true
@@ -519,14 +519,14 @@
 	"Coral On Cactus" = true
 	"Diamond Repair" = true
 	"Double Door Opening" = true
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	"Dyeable Item Frames" = true
 	Emotes = true
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Gold Tools Have Fortune" = true
-	"Grab Chickens" = true
-	"Hoe Harvesting" = true
+	"Gold Tools Have Fortune" = false
+	"Grab Chickens" = false
+	"Hoe Harvesting" = false
 	"Horses Swim" = true
 	"Improved Sponges" = true
 	"Lock Rotation" = true
@@ -1559,13 +1559,13 @@
 	"Chest Searching" = true
 	"Elytra Indicator" = true
 	"Greener Grass" = false
-	"Improved Tooltips" = true
+	"Improved Tooltips" = false
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
 	"Soul Candles" = true
 	"Usage Ticker" = true
-	"Uses For Curses" = true
-	"Variant Animal Textures" = true
+	"Uses For Curses" = false
+	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
 	[client.auto_walk_keybind]
@@ -1821,7 +1821,7 @@
 		"Reroll Even If Not Out Of Stock" = false
 
 [oddities]
-	Backpack = true
+	Backpack = false
 	Crate = true
 	Magnets = true
 	"Matrix Enchanting" = true

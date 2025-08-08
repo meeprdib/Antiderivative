@@ -28,7 +28,7 @@
 	[xenonextras.performance]
 		#Toggles JREI item rendering until searching
 		#Increases performance a little bit and cleans your screen when you don't want to use it
-		hideJREI = false
+		hideJREI = true
 		#Toggles Minecraft Fonts shadows
 		#Depending of the case may increase performance
 		#Gives a flat style text

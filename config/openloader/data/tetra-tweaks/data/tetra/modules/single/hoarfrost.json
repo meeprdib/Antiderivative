@@ -1,0 +1,35 @@
+{
+  "replace": true,
+  "type": "tetra:basic_major_module",
+  "slots": ["single/head"],
+  "improvements": ["tetra:single/hoarfrost/", "tetra:single/shared_head/", "tetra:single/shared/", "tetra:shared/"],
+  "variants": [{
+    "key": "hoarfrost/hoarfrost",
+    "durability": 771,
+    "integrity": -3,
+    "magicCapacity": 48,
+    "attributes": {
+      "generic.attack_damage": 9,
+      "generic.attack_speed": -1.75
+    },
+    "aspects": {
+      "blockBreaker": 2,
+      "breakable": 2
+    },
+    "tools": {
+      "axe_dig": ["minecraft:iron", 5]
+    },
+    "effects": {
+      "piercing": 3,
+      "piercingHarvest": 1
+    },
+    "glyph": {
+      "textureLocation": "tetra:textures/gui/glyph4.png",
+      "textureX": 48,
+      "textureY": 0
+    },
+    "models": [{
+      "location": "tetra:item/module/single/head/hoarfrost/default"
+    }]
+  }]
+}

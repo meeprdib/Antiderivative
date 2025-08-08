@@ -21,12 +21,6 @@
 		[types.wood_type.caverns_and_chasms]
 			azalea = true
 
-		[types.wood_type.tconstruct]
-			greenheart = false
-			skyroot = false
-			bloodshroom = false
-			enderbark = false
-
 		[types.wood_type.wetland_whimsy]
 			bald_cypress = true
 
@@ -89,13 +83,16 @@
 			laurel = true
 			kousa = true
 
-		[types.wood_type.hexalia]
-			cottonwood = true
-			willow = true
-
 		[types.wood_type.alexscaves]
 			pewen = true
 			thornwood = true
+
+		[types.wood_type.malum]
+			runewood = true
+			soulwood = true
+
+		[types.wood_type.vanillabackport]
+			pale_oak = true
 
 	[types.leaves_type]
 
@@ -116,11 +113,6 @@
 		[types.leaves_type.culturaldelights]
 			avocado = true
 			fruiting_avocado = true
-
-		[types.leaves_type.tconstruct]
-			earth_slime = true
-			sky_slime = true
-			ender_slime = true
 
 		[types.leaves_type.wetland_whimsy]
 			bald_cypress = true
@@ -173,10 +165,6 @@
 			willow = true
 			ashen = true
 
-		[types.leaves_type.hexalia]
-			cottonwood = true
-			willow = true
-
 		[types.leaves_type.upgrade_aquatic]
 			river = true
 
@@ -195,6 +183,15 @@
 
 		[types.leaves_type.alexscaves]
 			ancient = true
+
+		[types.leaves_type.malum]
+			runewood = true
+			azure_runewood = true
+			soulwood = true
+			budding_soulwood = true
+
+		[types.leaves_type.vanillabackport]
+			pale_oak = true
 
 	[types.stone_type]
 
@@ -223,9 +220,6 @@
 		[types.stone_type.excessive_building]
 			polished_stone = true
 
-		[types.stone_type.vintagedelight]
-			salt = true
-
 		[types.stone_type.botania]
 			livingrock = true
 			shimmerrock = true
@@ -248,10 +242,6 @@
 			craterstone = true
 			nebulite = true
 
-		[types.stone_type.tconstruct]
-			seared_stone = true
-			scorched_stone = true
-
 		[types.stone_type.rubinated_nether]
 			altar_stone = true
 
@@ -269,6 +259,67 @@
 			pink_salt = true
 			rose_pink_salt = true
 			pastel_pink_salt = true
+
+		[types.stone_type.opalescence]
+			opal = true
+
+		[types.stone_type.industrialhellscape]
+			strut = true
+
+	[types.crystal_type]
+
+		[types.crystal_type.galosphere]
+			allurite = true
+			lumiere = true
+
+		[types.crystal_type.excessive_building]
+			prismarine_crystal = true
+
+	[types.dust_type]
+
+		[types.dust_type.scguns]
+			sulfur = true
+
+	[types.metal_type]
+
+		[types.metal_type.botania]
+			manasteel = true
+			terrasteel = true
+			elementium = true
+
+		[types.metal_type.scguns]
+			anthralite = true
+			treated_iron = true
+			treated_brass = true
+			diamond_steel = true
+
+		[types.metal_type.galosphere]
+			silver = true
+
+		[types.metal_type.architects_palette]
+			nether_brass = true
+
+		[types.metal_type.cataclysm]
+			witherite = true
+			enderite = true
+			ignitium = true
+			ancient_metal = true
+			cursium = true
+			black_steel = true
+
+		[types.metal_type.caverns_and_chasms]
+			silver = true
+			necromium = true
+
+		[types.metal_type.oreganized]
+			silver = true
+			lead = true
+			electrum = true
+
+	[types.gem_type]
+
+		[types.gem_type.caverns_and_chasms]
+			spinel = true
 
 #Disables specific entries
 [entries]

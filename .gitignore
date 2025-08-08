@@ -33,3 +33,9 @@ win_event1748336599297.txt
 config/spark/activity.json
 config/spark/activity.json
 config/spark/activity.json
+/debug
+config/spark/heap-2025-07-21_21.56.49.threads
+*.index
+*.hprof
+config/spark/activity.json
+config/spark/activity.json

@@ -48,7 +48,7 @@ ClientEvents.tick(event => {
 
     let lerp = 0.01;
     if(biomeColor == "gay") {
-        lerp = 0.1;
+        lerp = 0.03;
         let tick = event.level.getDayTime() % 400;
         let warmColor = tick % 100 / 100;
         let coolColor = tick % 50 / 50;

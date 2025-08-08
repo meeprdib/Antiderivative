@@ -9,7 +9,8 @@ let raw_material_definition = (
   nugget,
   fluidBucket,
   fluidFluid,
-  dust
+  dust,
+  grit
 ) => {};
 
 raw_material_definition(
@@ -21,7 +22,8 @@ raw_material_definition(
   "galosphere:silver_nugget",
   "tconstruct:molten_silver_bucket",
   "tconstruct_molten_silver",
-  "kubejs:silver_dust"
+  "kubejs:silver_dust",
+  'kubejs:silver_grit'
 );
 
 raw_material_definition(
@@ -33,7 +35,8 @@ raw_material_definition(
   "minecraft:iron_nugget",
   "tconstruct:molten_iron_bucket",
   "tconstruct:molten_iron",
-  "crossroads:dust_iron"
+  "crossroads:dust_iron",
+  Item.of('crossroads:ore_gravel', '{material:"iron"}')
 );
 
 raw_material_definition(
@@ -45,7 +48,8 @@ raw_material_definition(
   'tconstruct:copper_nugget',
   "tconstruct:molten_copper_bucket",
   "tconstruct:molten_copper",
-  "crossroads:dust_copper"
+  "crossroads:dust_copper",
+  Item.of('crossroads:ore_gravel', '{material:"copper"}')
 );
 
 raw_material_definition(
@@ -57,7 +61,8 @@ raw_material_definition(
   "oreganized:lead_nugget",
   "tconstruct:molten_lead_bucket",
   "tconstruct:molten_lead",
-  "kubejs:lead_dust"
+  "kubejs:lead_dust",
+  'kubejs:lead_grit'
 );
 
 raw_material_definition(
@@ -69,7 +74,8 @@ raw_material_definition(
   "minecraft:gold_nugget",
   "tconstruct:molten_gold_bucket",
   "tconstruct:molten_gold",
-  "crossroads:dust_gold"
+  "crossroads:dust_gold",
+  Item.of('crossroads:ore_gravel', '{material:"gold"}')
 );
 
 raw_material_definition(
@@ -81,7 +87,8 @@ raw_material_definition(
   "crossroads:nugget_tin",
   "tconstruct:molten_tin_bucket",
   "tconstruct:molten_tin",
-  "crossroads:dust_tin"
+  "crossroads:dust_tin",
+  Item.of('crossroads:ore_gravel', '{material:"gold"}')
 );
 
 raw_material_definition(
@@ -93,5 +100,18 @@ raw_material_definition(
   "tconstruct:cobalt_nugget",
   "tconstruct:molten_cobalt_bucket",
   "tconstruct:molten_cobalt",
-  "kubejs:cobalt_dust"
+  "kubejs:cobalt_dust",
+  'kubejs:cobalt_grit'
+);
+
+raw_material_definition("#ad:soulstone_ore",
+  "malum:raw_soulstone",
+  "malum:block_of_raw_soulstone",
+  "malum:processed_soulstone",
+  "malum:block_of_soulstone",
+  'kubejs:soulstone_nugget',
+  "kubejs:molten_soulstone_bucket",
+  'kubejs:molten_soulstone',
+  "kubejs:soulstone_dust",
+  "kubejs:soulstone_grit",
 );
