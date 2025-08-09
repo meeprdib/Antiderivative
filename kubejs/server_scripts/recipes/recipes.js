@@ -9,21 +9,49 @@ ServerEvents.recipes((event) => {
     global.nukelist.push(toBeReplaced);
   };
 
-  function maceratorBuilder(recipeData) {
-    let itemIns = [];
-    for (let i = 0; i < 4; i++) {
-      console.log(recipeData[i]);
-      itemIns.push({ item: recipeData[i] });
+  function makeJsonIngredients(inputs) {
+    let finalInputs = [];
+    for (let input of inputs) {
+      let ingredient = "";
+      // get the ingredient which can only be read by converting the data to json
+
+      // checking input.class checks if the input is an Ingredient stack idk how else to do it
+      if (typeof input == "object" && input.class) {
+        ingredient = input;
+        // if the input is a string, it's likely just a item string e.g. '4x minecraft:dirt', convert it to an itemstack then ingredient
+      } else if (typeof input == "string") {
+        if (input.includes("#")) {
+          ingredient = Ingredient.of(input);
+        } else {
+          ingredient = Ingredient.of(Item.of(input).id, Item.of(input).count);
+        }
+      } else {
+        // if the input doesn't match either of the others it's probably already an item stack, convert it to an ingredient
+        ingredient = Ingredient.of(input.id, input.count);
+      }
+
+      // converting the ingredient to json, then also parsing it because toJson() returns a java hashmap
+      // which I couldn't figure out how to read or convert to js object
+      let obj = JSON.parse(ingredient.toJson());
+
+      // remove the ingredient part of the obj since recipes dont often use that
+      obj = Object.assign(obj, obj.ingredient);
+      delete obj.ingredient;
+
+      finalInputs.push(obj);
     }
-    console.log(Item.of(recipeData[4]).id);
-    console.log(Item.of(recipeData[4]).count);
+    return finalInputs;
+  }
+
+  function maceratorBuilder(output, inputs) {
+    output = Item.of(output);
     event.custom({
       type: "scguns:macerating",
       processingTime: 200,
-      ingredients: itemIns,
+      ingredients: makeJsonIngredients(inputs),
       result: {
-        item: Item.of(recipeData[4]).id,
-        count: Item.of(recipeData[4]).count,
+        item: output.id,
+        count: output.count,
       },
     });
 
@@ -31,18 +59,20 @@ ServerEvents.recipes((event) => {
       type: "scguns:powered_macerating",
       processingTime: 100,
       energyUse: 1000,
-      ingredients: itemIns,
+      ingredients: makeJsonIngredients(inputs),
       result: {
-        item: Item.of(recipeData[4]).id,
-        count: Item.of(recipeData[4]).count,
+        item: output.id,
+        count: output.count,
       },
     });
   }
 
-  function alloying(recipeData) {
-    maceratorBuilder(recipeData),
-      event.smelting(recipeData[5], recipeData[4]).xp(2);
-    // event.blasting(recipeData[5], recipeData[4]).xp(2)
+  function alloying(smeltOutput, procOutput, inputs) {
+    maceratorBuilder(procOutput, inputs);
+    event
+      .smelting(smeltOutput, procOutput)
+      .xp(2)
+      .id(`kubejs:alloysmelting/${smeltOutput.split(":")[1]}`);
   }
 
   // Refined Storage
@@ -101,117 +131,6 @@ ServerEvents.recipes((event) => {
     "scguns:treated_iron_ingot"
   );
 
-  // Apotheosis
-
-  // event.custom({
-  //   type: "malum:spirit_infusion",
-  //   extra_items: [
-  //     {
-  //       count: 1,
-  //       tag: "forge:tools/hammer",
-  //     },
-  //     {
-  //       count: 8,
-  //       item: "minecraft:stone",
-  //     },
-  //   ],
-  //   input: {
-  //     count: 1,
-  //     item: "minecraft:smithing_table",
-  //   },
-  //   output: {
-  //     item: "apotheosis:simple_reforging_table",
-  //   },
-  //   spirits: [
-  //     {
-  //       type: "arcane",
-  //       count: 16,
-  //     },
-  //     {
-  //       type: "wicked",
-  //       count: 8,
-  //     },
-  //     {
-  //       type: "earthen",
-  //       count: 32,
-  //     },
-  //   ],
-  // });
-
-  // event.custom({
-  //   type: "malum:spirit_infusion",
-  //   extra_items: [
-  //     {
-  //       count: 1,
-  //       item: "cataclysm:infernal_forge",
-  //     },
-  //     {
-  //       count: 5,
-  //       item: "malum:malignant_pewter_ingot",
-  //     },
-  //     {
-  //       count: 6,
-  //       item: "oreganized:lead_ingot",
-  //     },
-  //     {
-  //       count: 2,
-  //       item: "scguns:scorched_ingot",
-  //     },
-  //   ],
-  //   input: {
-  //     count: 1,
-  //     item: "apotheosis:simple_reforging_table",
-  //   },
-  //   output: {
-  //     item: "apotheosis:reforging_table",
-  //   },
-  //   spirits: [
-  //     {
-  //       type: "arcane",
-  //       count: 32,
-  //     },
-  //     {
-  //       type: "wicked",
-  //       count: 12,
-  //     },
-  //     {
-  //       type: "eldritch",
-  //       count: 32,
-  //     },
-  //   ],
-  // });
-
-  // event.custom({
-  //   type: "malum:spirit_infusion",
-  //   extra_items: [
-  //     {
-  //       count: 6,
-  //       item: "crossroads:ingot_copshowium",
-  //     },
-  //   ],
-  //   input: {
-  //     count: 1,
-  //     item: "minecraft:smithing_table",
-  //   },
-  //   output: {
-  //     item: "apotheosis:augmenting_table",
-  //   },
-  //   spirits: [
-  //     {
-  //       type: "arcane",
-  //       count: 32,
-  //     },
-  //     {
-  //       type: "sacred",
-  //       count: 12,
-  //     },
-  //     {
-  //       type: "eldritch",
-  //       count: 8,
-  //     },
-  //   ],
-  // });
-
   // Scorched Guns
 
   event.shaped("scguns:macerator", ["A A", "BCB", "BDB"], {
@@ -221,58 +140,43 @@ ServerEvents.recipes((event) => {
     D: "minecraft:redstone_block",
   });
 
+  // event.shaped('scguns:powered_macerator', )
+
   // Alloying
 
-  alloying([
-    "malum:arcane_charcoal",
-    "scguns:treated_iron_blend",
-    "kubejs:netherite_blend",
-    "kubejs:netherite_blend",
-    "2x art_of_forging:resonant_alloy",
-    "art_of_forging:forged_steel_ingot",
-  ]);
+  alloying("art_of_forging:forged_steel_ingot", "2x art_of_forging:resonant_alloy", [
+      "malum:arcane_charcoal",
+      "scguns:treated_iron_blend",
+      "kubejs:netherite_blend",
+      "kubejs:netherite_blend",
+    ]);
 
-  alloying([
+  alloying("3x kubejs:electrum_blend", "oreganized:electrum_ingot", [
     "oreganized:silver_ingot",
     "oreganized:silver_ingot",
     "malum:hallowed_gold_ingot",
     "malum:hallowed_gold_ingot",
-    "3x kubejs:electrum_blend",
-    "oreganized:electrum_ingot",
   ]);
 
-  alloying([
+  alloying("kubejs:endsteel_blend", "art_of_forging:endsteel_ingot", [
     "scguns:vehement_coal",
     "malum:hallowed_gold_ingot",
     "minecraft:netherite_scrap",
     "minecraft:netherite_scrap",
-    "kubejs:netherite_blend",
-    "minecraft:netherite_ingot",
   ]);
 
-  alloying([
-    "art_of_forging:resonant_alloy",
-    "art_of_forging:resonant_alloy",
-    "minecraft:ender_pearl",
-    "minecraft:ender_pearl",
-    "kubejs:endsteel_blend",
-    "art_of_forging:endsteel_ingot",
-  ]);
-
-  alloying([
+  alloying("3x scguns:treated_brass_blend", "scguns:treated_brass_ingot", [
     "minecraft:copper_ingot",
     "minecraft:copper_ingot",
     "crossroads:ingot_tin",
-    'refinedstorage:silicon',
-    "3x scguns:treated_brass_blend",
-    "scguns:treated_brass_ingot",
+    "refinedstorage:silicon",
   ]);
 
   // Crossroads
 
-  event.shaped('crossroads:fluid_tank', ['AAA', 'A A', 'AAA'], {
-    A: '#forge:ingots/bronze'
-  })
+  event.shaped("crossroads:fluid_tank", ["AAA", "A A", "AAA"], {
+    A: "#forge:ingots/bronze",
+  });
 
   //Misc
 
@@ -306,6 +210,6 @@ ServerEvents.recipes((event) => {
   event.shaped("minecraft:grindstone", ["ABA", "C C"], {
     A: "#forge:rods/wooden",
     B: "#forge:stone",
-    C: '#minecraft:planks'
+    C: "#minecraft:planks",
   });
 });

@@ -9,10 +9,6 @@ ServerEvents.recipes((event) => {
   ];
 
   const removedIDs = [
-    // 'apotheosis:augmenting_table',
-    // 'apotheosis:enchanted_golden_apple',
-    // 'apotheosis:reforging_table',
-    // 'apotheosis:simple_reforging_table',
     "art_of_forging:endsteel_ingot",
     "art_of_forging:forged_steel_from_blasting_alloy",
     "art_of_forging:resonant_alloy",
