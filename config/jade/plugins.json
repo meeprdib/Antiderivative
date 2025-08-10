@@ -57,6 +57,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
+  },
   "jadeaddons.lootr": {
     "info": true
   },

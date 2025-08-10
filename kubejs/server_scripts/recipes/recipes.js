@@ -151,21 +151,21 @@ ServerEvents.recipes((event) => {
       "kubejs:netherite_blend",
     ]);
 
-  alloying("3x kubejs:electrum_blend", "oreganized:electrum_ingot", [
+  alloying("oreganized:electrum_ingot", "3x kubejs:electrum_blend", [
     "oreganized:silver_ingot",
     "oreganized:silver_ingot",
     "malum:hallowed_gold_ingot",
     "malum:hallowed_gold_ingot",
   ]);
 
-  alloying("kubejs:endsteel_blend", "art_of_forging:endsteel_ingot", [
+  alloying("minecraft:netherite_ingot", "kubejs:netherite_blend", [
     "scguns:vehement_coal",
-    "malum:hallowed_gold_ingot",
+    "malum:cthonic_gold",
     "minecraft:netherite_scrap",
     "minecraft:netherite_scrap",
   ]);
 
-  alloying("3x scguns:treated_brass_blend", "scguns:treated_brass_ingot", [
+  alloying("scguns:treated_brass_ingot", "3x scguns:treated_brass_blend", [
     "minecraft:copper_ingot",
     "minecraft:copper_ingot",
     "crossroads:ingot_tin",
@@ -177,6 +177,13 @@ ServerEvents.recipes((event) => {
   event.shaped("crossroads:fluid_tank", ["AAA", "A A", "AAA"], {
     A: "#forge:ingots/bronze",
   });
+
+  event.shaped("essentials:speed_hopper", ["A A", "ABA", " A "], {
+    A: "#forge:ingots/bronze",
+    B: "#forge:chests",
+  });
+
+  // Little Logistics
 
   //Misc
 
@@ -212,4 +219,46 @@ ServerEvents.recipes((event) => {
     B: "#forge:stone",
     C: "#minecraft:planks",
   });
+
+  event.shaped("8x minecraft:rail", ["A A", "ABA", "A A"], {
+    A: "#forge:nuggets/tin",
+    B: "#forge:rods/wooden",
+  });
+
+  event.shaped("4x minecraft:powered_rail", ["A A", "ABA", "ACA"], {
+    A: "#forge:nuggets/copper",
+    B: "#forge:rods/wooden",
+    C: "#forge:dusts/redstone",
+  });
+
+  event.shaped("2x minecraft:detector_rail", ["A A", "ABA", "ACA"], {
+    A: "#forge:nuggets/tin",
+    B: "#minecraft:wooden_pressure_plates",
+    C: "#forge:dusts/redstone",
+  });
+
+  event.shaped("2x minecraft:activator_rail", ["ABA", "ACA", "ABA"], {
+    A: "#forge:nuggets/tin",
+    B: "#forge:dusts/redstone",
+    C: "#forge:rods/wooden",
+  });
+
+  event.shaped("6x littlelogistics:spring", ["ABA", "BAB"], {
+    A: "#forge:nuggets/tin",
+    B: "#forge:string",
+  });
+
+  event.shaped("2x littlelogistics:tug_dock", ["AAA", "BAB", "CCC"], {
+    A: "#forge:stone",
+    B: "littlelogistics:spring",
+    C: "#forge:ingots/tin",
+  });
+
+  event.shaped("2x littlelogistics:barge_dock", ["AAA", "ABA", "CCC"], {
+    A: "#forge:stone",
+    B: "littlelogistics:spring",
+    C: "#forge:ingots/tin",
+  });
+
+  maceratorBuilder("4x enderzoology:ender_fragment", ["#forge:ender_pearls"]);
 });

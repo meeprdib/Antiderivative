@@ -2,6 +2,8 @@
 // tables, recipes, tags, ect.
 
 global.nukelist = [
+  'irons_spellbooks:mana_ring',
+  'littlelogistics:rapid_hopper',
   'essentials:candle_lilypad',
   'cataclysm_spellbooks:abyssal_rune',
   "scguns:treated_brass_helmet",

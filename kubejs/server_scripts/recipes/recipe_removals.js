@@ -32,7 +32,14 @@ ServerEvents.recipes((event) => {
     "crossroads:base_materials/bronze_alloy_nugg",
     "scguns:treated_brass_ingot_from_smelting_treated_brass_blend",
     'crossroads:fluid_tank',
-    
+    "minecraft:rail",
+    "minecraft:powered_rail",
+    "minecraft:detector_rail",
+    "minecraft:activator_rail",
+    'littlelogistics:spring',
+    'littlelogistics:tug_dock',
+    'littlelogistics:barge_dock',
+    'essentials:speed_hopper',
   ];
   const removedInputs = [];
   const removedOutputs = [];
