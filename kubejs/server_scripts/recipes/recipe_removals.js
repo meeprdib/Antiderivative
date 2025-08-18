@@ -40,6 +40,7 @@ ServerEvents.recipes((event) => {
     'littlelogistics:tug_dock',
     'littlelogistics:barge_dock',
     'essentials:speed_hopper',
+    'essentials:wither_cannon',
   ];
   const removedInputs = [];
   const removedOutputs = [];

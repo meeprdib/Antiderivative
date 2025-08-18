@@ -1,9 +1,0 @@
-{
-    "type": "forge:remove_features",
-    "biomes": "#minecraft:overworld",
-    "features": [
-        "oreganized:lead_ore",
-        "oreganized:lead_ore_extra",
-        "minecraft:ore_ancient_debris_small"
-    ]
-}

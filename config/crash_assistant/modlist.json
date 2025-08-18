@@ -4,6 +4,11 @@
     "modId": "forge",
     "version": "fmlloader-1.20.1-47.4.0.jar"
   },
+  "[1.20.1-Forge] Additional Placements-2.3.1.jar": {
+    "jarName": "[1.20.1-Forge] Additional Placements-2.3.1.jar",
+    "modId": "additionalplacements",
+    "version": "2.3.1"
+  },
   "abnormals_delight-1.20.1-5.0.0.jar": {
     "jarName": "abnormals_delight-1.20.1-5.0.0.jar",
     "modId": "abnormals_delight",
@@ -429,11 +434,6 @@
     "modId": "ftblibrary",
     "version": "2001.2.10"
   },
-  "ftb-quests-forge-2001.4.14.jar": {
-    "jarName": "ftb-quests-forge-2001.4.14.jar",
-    "modId": "ftbquests",
-    "version": "2001.4.14"
-  },
   "ftb-teams-forge-2001.3.1.jar": {
     "jarName": "ftb-teams-forge-2001.3.1.jar",
     "modId": "ftbteams",
@@ -642,6 +642,11 @@
     "modId": "malum",
     "version": "1.20.1-1.6.7"
   },
+  "mininggadgets-1.15.6.jar": {
+    "jarName": "mininggadgets-1.15.6.jar",
+    "modId": "mininggadgets",
+    "version": "1.15.6"
+  },
   "modernfix-forge-5.24.4+mc1.20.1.jar": {
     "jarName": "modernfix-forge-5.24.4+mc1.20.1.jar",
     "modId": "modernfix",
@@ -781,6 +786,11 @@
     "jarName": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
     "modId": "radium",
     "version": "0.12.4+git.26c9d8e"
+  },
+  "reactive-1.20.1-9.18.4.jar": {
+    "jarName": "reactive-1.20.1-9.18.4.jar",
+    "modId": "reactive",
+    "version": "1.20.1-9.18.4"
   },
   "refinedstorage-1.12.4.jar": {
     "jarName": "refinedstorage-1.12.4.jar",
@@ -926,11 +936,6 @@
     "jarName": "splendid_slimes-0.13.2.jar",
     "modId": "splendid_slimes",
     "version": "0.13.2"
-  },
-  "stonezone-1.20-2.8.15.jar": {
-    "jarName": "stonezone-1.20-2.8.15.jar",
-    "modId": "stonezone",
-    "version": "1.20-2.8.15"
   },
   "Storage Drawers-forge-1.20.1-12.11.5.jar": {
     "jarName": "Storage Drawers-forge-1.20.1-12.11.5.jar",

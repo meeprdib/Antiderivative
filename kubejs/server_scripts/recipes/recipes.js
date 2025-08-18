@@ -1,4 +1,5 @@
 ServerEvents.recipes((event) => {
+
   let swap = (item1, item2) => {
     event.shapeless(item1, [item2]);
     event.shapeless(item2, [item1]);
@@ -13,12 +14,8 @@ ServerEvents.recipes((event) => {
     let finalInputs = [];
     for (let input of inputs) {
       let ingredient = "";
-      // get the ingredient which can only be read by converting the data to json
-
-      // checking input.class checks if the input is an Ingredient stack idk how else to do it
       if (typeof input == "object" && input.class) {
         ingredient = input;
-        // if the input is a string, it's likely just a item string e.g. '4x minecraft:dirt', convert it to an itemstack then ingredient
       } else if (typeof input == "string") {
         if (input.includes("#")) {
           ingredient = Ingredient.of(input);
@@ -26,15 +23,9 @@ ServerEvents.recipes((event) => {
           ingredient = Ingredient.of(Item.of(input).id, Item.of(input).count);
         }
       } else {
-        // if the input doesn't match either of the others it's probably already an item stack, convert it to an ingredient
         ingredient = Ingredient.of(input.id, input.count);
       }
-
-      // converting the ingredient to json, then also parsing it because toJson() returns a java hashmap
-      // which I couldn't figure out how to read or convert to js object
       let obj = JSON.parse(ingredient.toJson());
-
-      // remove the ingredient part of the obj since recipes dont often use that
       obj = Object.assign(obj, obj.ingredient);
       delete obj.ingredient;
 
@@ -126,10 +117,7 @@ ServerEvents.recipes((event) => {
     C: "refinedstorage:machine_casing",
   });
 
-  replaceitem(
-    "refinedstorage:quartz_enriched_iron",
-    "scguns:treated_iron_ingot"
-  );
+  replaceitem("refinedstorage:quartz_enriched_iron", "scguns:treated_iron_ingot");
 
   // Scorched Guns
 
@@ -140,7 +128,9 @@ ServerEvents.recipes((event) => {
     D: "minecraft:redstone_block",
   });
 
-  // event.shaped('scguns:powered_macerator', )
+  // event.shaped('scguns:powered_macerator', [], {
+
+  // })
 
   // Alloying
 
@@ -183,9 +173,33 @@ ServerEvents.recipes((event) => {
     B: "#forge:chests",
   });
 
+  event.shaped('essentials:wither_cannon', ['BDB', 'BCB', 'AAA'], {
+    A: '#forge:storage_blocks/lead',
+    B: '#forge:obsidian',
+    C: '#forge:dusts/redstone',
+    D: 'scguns:nether_star_fragment'
+  })
+
   // Little Logistics
 
-  //Misc
+  event.shaped("6x littlelogistics:spring", ["ABA", "BAB"], {
+    A: "#forge:nuggets/tin",
+    B: "#forge:string",
+  });
+
+  event.shaped("2x littlelogistics:tug_dock", ["AAA", "BAB", "CCC"], {
+    A: "#forge:stone",
+    B: "littlelogistics:spring",
+    C: "#forge:ingots/tin",
+  });
+
+  event.shaped("2x littlelogistics:barge_dock", ["AAA", "ABA", "CCC"], {
+    A: "#forge:stone",
+    B: "littlelogistics:spring",
+    C: "#forge:ingots/tin",
+  });
+
+  //Misc / Vanilla
 
   replaceitem("crossroads:ingot_bronze", "scguns:treated_brass_ingot");
   replaceitem("minecraft:ender_eye", "#forge:ender_pearls");
@@ -243,22 +257,11 @@ ServerEvents.recipes((event) => {
     C: "#forge:rods/wooden",
   });
 
-  event.shaped("6x littlelogistics:spring", ["ABA", "BAB"], {
-    A: "#forge:nuggets/tin",
-    B: "#forge:string",
-  });
-
-  event.shaped("2x littlelogistics:tug_dock", ["AAA", "BAB", "CCC"], {
-    A: "#forge:stone",
-    B: "littlelogistics:spring",
-    C: "#forge:ingots/tin",
-  });
-
-  event.shaped("2x littlelogistics:barge_dock", ["AAA", "ABA", "CCC"], {
-    A: "#forge:stone",
-    B: "littlelogistics:spring",
-    C: "#forge:ingots/tin",
-  });
-
   maceratorBuilder("4x enderzoology:ender_fragment", ["#forge:ender_pearls"]);
+  
+  event.shaped('64x minecraft:torch', ['A', 'B'], {
+    A: 'scguns:vehement_coal',
+    B: '#forge:rods/wooden'
+  })
+
 });
