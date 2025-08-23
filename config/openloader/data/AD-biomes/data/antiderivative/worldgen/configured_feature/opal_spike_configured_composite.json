@@ -1,0 +1,9 @@
+{
+  "type": "lithostitched:composite",
+  "config": {
+    "features": [
+      "antiderivative:air_placed",
+      "antiderivative:opal_spike_placed"
+    ]
+  }
+}

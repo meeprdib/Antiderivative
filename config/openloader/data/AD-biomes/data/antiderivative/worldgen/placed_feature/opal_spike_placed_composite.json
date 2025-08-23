@@ -1,0 +1,9 @@
+{
+  "feature": {
+    "type": "lithostitched:composite",
+    "config": {
+      "features": "antiderivative:opal_spike_configured_composite"
+    }
+  },
+  "placement": []
+}
