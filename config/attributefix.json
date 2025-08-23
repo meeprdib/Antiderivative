@@ -660,6 +660,17 @@
         "value": 100
       }
     },
+    "windswept:snow_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "irons_spellbooks:lightning_spell_power": {
       "enabled": false,
       "min": {
@@ -3531,6 +3542,17 @@
         "value": 1024
       }
     },
+    "windswept:sprint_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "additional_attributes:spell_type_flaming_strike": {
       "enabled": false,
       "min": {
@@ -4002,6 +4024,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "windswept:fragrance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additional_attributes:spell/cataclysm_spellbooks/summon_koboleton": {

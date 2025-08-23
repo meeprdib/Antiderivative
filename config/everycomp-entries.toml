@@ -94,6 +94,11 @@
 			runewood = true
 			soulwood = true
 
+		[types.wood_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.autumnity]
@@ -193,6 +198,12 @@
 			soulwood = true
 			budding_soulwood = true
 
+		[types.leaves_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+			flowering_acacia = true
+
 	[types.crystal_type]
 
 		[types.crystal_type.galosphere]
@@ -206,6 +217,9 @@
 
 		[types.dust_type.scguns]
 			sulfur = true
+
+		[types.dust_type.ae2]
+			fluix = true
 
 	[types.metal_type]
 

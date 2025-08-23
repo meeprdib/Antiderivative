@@ -159,7 +159,7 @@ ServerEvents.recipes((event) => {
     "minecraft:copper_ingot",
     "minecraft:copper_ingot",
     "crossroads:ingot_tin",
-    "refinedstorage:silicon",
+    '#forge:silicon',
   ]);
 
   // Crossroads

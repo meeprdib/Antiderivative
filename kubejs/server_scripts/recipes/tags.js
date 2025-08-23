@@ -3,6 +3,7 @@ ServerEvents.tags('item', event => {
     event.add('ad:soulstone_ore', ['malum:deepslate_soulstone_ore', 'malum:soulstone_ore'])
     event.add('forge:ingots/bronze', 'scguns:treated_brass_ingot')
     event.add('forge:storage_blocks/bronze', 'scguns:treated_brass_block')
+    event.add('c:hidden_from_recipe_viewers', 'ae2:facade')
 })
 
 ServerEvents.tags("block", (event) => {
@@ -15,4 +16,5 @@ ServerEvents.tags("block", (event) => {
     "minecraft:copper_ore",
     "minecraft:deepslate_copper_ore",
   ]);
+  event.add('minecraft:base_stone_overworld', 'minecraft:grass_block')
 });

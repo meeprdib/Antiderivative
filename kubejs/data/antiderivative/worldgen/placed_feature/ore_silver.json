@@ -1,0 +1,17 @@
+{
+  "feature": "antiderivative:ore_silver",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "below_top": 0
+        },
+        "max_inclusive": {
+          "absolute": 384
+        }
+      }
+    }
+  ]
+}
