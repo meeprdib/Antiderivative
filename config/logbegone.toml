@@ -1,5 +1,5 @@
 
 [logbegone]
-	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Couldn't parse element", "EMI", "TMRV"]
-	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "EMI", "TMRV", "Couldn't parse element"]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Couldn't parse element", "EMI", "TMRV", "Detected setBlock in a far chunk", "Empty height range: triangle"]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "EMI", "TMRV", "Couldn't parse element", "Detected setBlock in a far chunk", "Empty height range: triangle"]
 
