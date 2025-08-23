@@ -2,8 +2,30 @@
   "type": "lithostitched:composite",
   "config": {
     "features": [
-      "antiderivative:air_placed",
-      "antiderivative:opal_spike_placed"
+      {
+        "feature": "antiderivative:air_placed",
+        "placement": [
+          {
+            "type": "minecraft:in_square"
+          },
+          {
+            "type": "minecraft:heightmap",
+            "heightmap": "WORLD_SURFACE"
+          }
+        ]
+      },
+      {
+        "feature": "antiderivative:opal_spike_placed",
+        "placement": [
+          {
+            "type": "minecraft:in_square"
+          },
+          {
+            "type": "minecraft:heightmap",
+            "heightmap": "WORLD_SURFACE"
+          }
+        ]
+      }
     ]
   }
 }
