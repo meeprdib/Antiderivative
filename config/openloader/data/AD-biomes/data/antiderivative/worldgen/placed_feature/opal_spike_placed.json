@@ -2,16 +2,6 @@
   "feature": "antiderivative:opal_spike_configured",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": {
-        "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 200,
-          "min_inclusive": 180
-        }
-      }
-    },
-    {
       "type": "minecraft:in_square"
     },
     {
@@ -20,6 +10,15 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": 0,
+      "y_spread": -1
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 5
     }
   ]
 }

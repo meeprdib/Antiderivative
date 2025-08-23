@@ -1,32 +1,76 @@
 {
-  "type": "galosphere:crystal_spike",
-  "config": {
-    "cluster_state": {
-      "Name": "opalescence:opal_crystal_cluster",
-      "Properties": {
+ "type": "lithostitched:composite",
+ "config": {
+  "features": [
+   {
+    "feature": {
+     "type": "minecraft:simple_block",
+     "config": {
+      "to_place": {
+       "type": "minecraft:simple_state_provider",
+       "state": {
+        "Name": "minecraft:air"
+       }
+      }
+     }
+    },
+    "placement": [
+     {
+      "type": "minecraft:random_offset",
+      "xz_spread": 0,
+      "y_spread": -1
+     }
+    ]
+   },
+      {
+    "feature": {
+     "type": "minecraft:simple_block",
+     "config": {
+      "to_place": {
+       "type": "minecraft:simple_state_provider",
+       "state": {
+        "Name": "minecraft:stone"
+       }
+      }
+     }
+    },
+    "placement": []
+   },
+   {
+    "feature": {
+     "type": "galosphere:crystal_spike",
+     "config": {
+      "cluster_state": {
+       "Name": "opalescence:opal_crystal_cluster",
+       "Properties": {
         "facing": "up",
         "pollinated": "false",
         "waterlogged": "false"
-      }
-    },
-    "crystal_direction": "floor",
-    "crystal_state": {
-      "Name": "opalescence:opal"
-    },
-    "glinted_cluster": {
-      "Name": "opalescence:opal_crystal_cluster",
-      "Properties": {
+       }
+      },
+      "crystal_direction": "floor",
+      "crystal_state": {
+       "Name": "opalescence:opal"
+      },
+      "glinted_cluster": {
+       "Name": "opalescence:opal_crystal_cluster",
+       "Properties": {
         "facing": "up",
         "waterlogged": "false"
+       }
+      },
+      "glinted_cluster_chance": 0.25,
+      "xz_radius": {
+       "type": "minecraft:uniform",
+       "value": {
+        "max_inclusive": 30,
+        "min_inclusive": 20
+       }
       }
+     }
     },
-    "glinted_cluster_chance": 0.25,
-    "xz_radius": {
-      "type": "minecraft:uniform",
-      "value": {
-        "max_inclusive": 24,
-        "min_inclusive": 2
-      }
-    }
-  }
+    "placement": []
+   }
+  ]
+ }
 }
