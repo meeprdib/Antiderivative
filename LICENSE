@@ -2,7 +2,7 @@
 
 MIT License
 
-Copyright (c) 2025 Davey
+Copyright (c) 2025 Emma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,4 +33,5 @@ You may not use this project’s branding anywhere, including in forks, reupload
 
 All Rights Reserved
 
-Art includes all custom models and sprites under the directory `Antiderivative/kubejs/assets`
+Art includes all original models, sprites, and music.
+Art is included in, but not limited to, directories such as `kubejs/assets` and `config/open_loader/resources`.
