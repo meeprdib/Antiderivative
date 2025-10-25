@@ -69,6 +69,7 @@
 
 		[types.wood_type.netherexp]
 			claret = true
+			smokestalk = true
 
 		[types.wood_type.upgrade_aquatic]
 			driftwood = true
@@ -98,6 +99,12 @@
 			holly = true
 			chestnut = true
 			pine = true
+
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
+		[types.wood_type.darkerdepths]
+			petrified = true
 
 	[types.leaves_type]
 
@@ -212,11 +219,14 @@
 
 		[types.crystal_type.excessive_building]
 			prismarine_crystal = true
+			fiery = true
+			miralen = true
+			kyanite = true
+
+		[types.crystal_type.ae2]
+			quartz = true
 
 	[types.dust_type]
-
-		[types.dust_type.scguns]
-			sulfur = true
 
 		[types.dust_type.ae2]
 			fluix = true
@@ -233,6 +243,7 @@
 			treated_iron = true
 			treated_brass = true
 			diamond_steel = true
+			scorched = true
 
 		[types.metal_type.galosphere]
 			silver = true
@@ -256,6 +267,9 @@
 			silver = true
 			lead = true
 			electrum = true
+
+		[types.metal_type.darkerdepths]
+			forsaken_bronze = true
 
 	[types.gem_type]
 

@@ -2,4 +2,13 @@
 "Should Shutdown spell prevent target from spell casting (default value is True): " = true
 "Should Intrusion Prevent System prevent the entities from receiving projectile damage (default is True): " = true
 "Should Cataclysm: Spellbooks spells cause griefing (default is True): " = true
+"Should Final Rend cancel damage towards the caster when charging up the spell (default is True): " = true
+"Should the Murasama lifesteal ability be enabled (default is True): " = true
+"Should the Murasama mana steal ability be enabled (default is True): " = true
+
+["Percentage of health that should be regained for lifesteal based on max health (default is 0"]
+	"25 aka 25%): " = 0.25
+
+["Percentage of mana that should be regained based on damage dealt for manasteal (default is 0"]
+	"25 aka 25%): " = 0.25
 

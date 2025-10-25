@@ -4,7 +4,7 @@
 	allowEmptyHand = true
 	#Harvesting crops costs durability.
 	damageTool = false
-	#Attempt to automatically register crops from non-vanilla mods.
+	#Automatically register crops.
 	autoConfigMods = true
 	#Chance of XP dropping on harvest.
 	#Range: 0 ~ 100
@@ -17,7 +17,10 @@
 	#Range of XP dropped on harvest. Format: "min-max", example: "0-3"
 	xpFromHarvestRangeAmount = "0-3"
 	#Harvestable crops.
-	#Format: "harvestState[,afterHarvest]", i.e. "minecraft:wheat[age=7]" or "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]"
+	#Format: "harvestState[,afterHarvest]", i.e. "minecraft:wheat[age=7]"
+	#or "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]"
+	#WARNING: If autoConfigMods is set to false, only crops defined here will work.
+	#If not, it will just add to the auto-configured list.
 	harvestableCrops = ["minecraft:wheat[age=7]", "minecraft:carrots[age=7]", "minecraft:potatoes[age=7]", "minecraft:beetroots[age=3]", "minecraft:nether_wart[age=3]", "minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]", "minecraft:cocoa[age=2,facing=south],minecraft:cocoa[age=0,facing=south]", "minecraft:cocoa[age=2,facing=east],minecraft:cocoa[age=0,facing=east]", "minecraft:cocoa[age=2,facing=west],minecraft:cocoa[age=0,facing=west]"]
 	#Blocks that right clicking should simulate click instead of breaking.
 	#For blocks like berry bushes that have built-in right click harvest.
@@ -32,10 +35,12 @@
 	highTierExpansionRange = 3
 	#Expand hoe range by 1 for each level of efficiency enchantment level.
 	expandHoeRangeEnchanted = true
-	#Maximum range hoe can expand for harvesting. This is the maximum of tier + efficiency enchantment.
+	#Maximum range hoe can expand for harvesting.
+	#This is the maximum of tier + efficiency enchantment.
 	#Range: 1 ~ 11
 	maxHoeExpansionRange = 11
-	#List of individual hoe tools and their harvest tier. This is for modded items not covered. Format: minecraft:wooden_hoe-0 (with number being tier)
+	#List of individual hoe tools and their harvest tier. This is for modded items not covered.
+	#Format: minecraft:wooden_hoe-0 (with number being tier)
 	hoeItems = []
 	#List of crops to blacklist from right-click harvest. Format: "modid:block"
 	blacklistCrops = []

@@ -27,17 +27,17 @@
 
 [dusttype]
 	#Exclude DustType from all of Modules
-	#	The example is same as DustType's
+	#	The example is same as CrystalType's
 	blacklist = []
 
 [gemtype]
-	#Exclude DustType from all of Modules
-	#	The example is same as GemType's
+	#Exclude GemType from all of Modules
+	#	The example is same as CrystalType's
 	blacklist = []
 
 [metaltype]
-	#Exclude DustType from all of Modules
-	#	The example is same as MetalType's
+	#Exclude MetalType from all of Modules
+	#	The example is same as CrystalType's
 	blacklist = []
 
 [entryset]

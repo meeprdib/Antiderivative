@@ -4,17 +4,18 @@
   "has_precipitation": false,
   "temperature_modifier": "none",
   "effects": {
-    "sky_color": 0,
-    "fog_color": 0,
-    "water_color": 0,
-    "water_fog_color": 0
+    "sky_color": 51414,
+    "fog_color": 51414,
+    "water_color": 51414,
+    "water_fog_color": 51414
   },
   "spawners": {},
   "spawn_costs": {},
   "carvers": {},
   "features": [
     [
-      "antiderivative:opal_spike_placed"
+      "antiderivative:opal_spike_placed",
+      "antiderivative:sandy_grass"
     ]
   ]
 }

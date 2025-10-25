@@ -1,16 +1,11 @@
 {
   "filters": [
-    { "category": "hexerei:plant_picking" },
     { "category": "emi:anvil_repairing" },
     { "category": "emi:grinding" },
     { "category": "tconstruct:worktable" },
     { "category": "irons_spellbooks:arcane_anvil" },
     { "category": "rubinated_nether:freezing" },
     { "category": "rubinated_nether:freezer_fuel" },
-    { "category": "alexscaves:spelunkery_table" },
-    { "category": "crossroads:reag_info" },
-    { "id": "toomanyrecipeviewers:/scguns/kjs/50orezxtm1i7z1y34mn9k6qoo" },
-    { "id": "toomanyrecipeviewers:/scguns/powered_macerator/powered_treated_brass_blend_from_macerating" },
-    { "id": "toomanyrecipeviewers:/scguns/macerator/treated_brass_blend_from_macerating" }
+    { "category": "alexscaves:spelunkery_table" }
   ]
 }

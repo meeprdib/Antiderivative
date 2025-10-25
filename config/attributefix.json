@@ -2321,6 +2321,17 @@
         "value": 100
       }
     },
+    "additional_attributes:innate_spell/cataclysm_spellbooks/conjure_clawdian": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:innate_spell/traveloptics/coral_barrage": {
       "enabled": false,
       "min": {
@@ -3773,6 +3784,17 @@
         "value": 100
       }
     },
+    "additional_attributes:spell/cataclysm_spellbooks/conjure_clawdian": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:spell_type_lightning_bolt": {
       "enabled": false,
       "min": {
@@ -4389,6 +4411,17 @@
         "value": 100
       }
     },
+    "additional_attributes:spell/cataclysm_spellbooks/final_rend": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:innate_spell/traveloptics/astral_sense": {
       "enabled": false,
       "min": {
@@ -4730,6 +4763,17 @@
         "value": 100
       }
     },
+    "additional_attributes:innate_spell/cataclysm_spellbooks/quick_strike": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:spell/cataclysm_spellbooks/missile_launch": {
       "enabled": false,
       "min": {
@@ -4841,6 +4885,17 @@
       }
     },
     "additional_attributes:spell_type_spectral_hammer": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell/cataclysm_spellbooks/quick_strike": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -5795,6 +5850,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "additional_attributes:innate_spell/cataclysm_spellbooks/final_rend": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "additional_attributes:spell/traveloptics/mechanized_predator": {

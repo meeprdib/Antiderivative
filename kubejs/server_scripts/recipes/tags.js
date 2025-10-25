@@ -16,6 +16,4 @@ ServerEvents.tags("block", (event) => {
     "minecraft:copper_ore",
     "minecraft:deepslate_copper_ore",
   ]);
-  // event.add('minecraft:base_stone_overworld', 'minecraft:grass_block')
-  // event.remove('minecraft:dirt', 'minecraft:grass_block')
 });

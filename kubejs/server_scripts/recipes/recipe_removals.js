@@ -1,11 +1,10 @@
 ServerEvents.recipes((event) => {
   const removedTypes = [
-    "aether:repairing",
-    "botania:orechid",
-    "botania:orechid_ignem",
-    "botania:marimorphosis",
-    "crossroads:alchemy",
-    "botania:botanical_brewery"
+    // "botania:orechid",
+    // "botania:orechid_ignem",
+    // "botania:marimorphosis",
+    // "crossroads:alchemy",
+    // "botania:botanical_brewery"
   ];
 
   const removedIDs = [
